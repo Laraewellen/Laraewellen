@@ -1,9 +1,8 @@
 
-# Olá, me chamo Lara! 
-## Bem vindo ao meu perfil GitHub 👋
+# 🌟 Hey! Sou a Lara!
+# Você está prestes a explorar meu mundo de códigos e projetos incríveis. Bem vindo(a) 🚀
 
 
-Cursando Ciência da Computação.
 
 Aprendendo
 <div>
@@ -11,11 +10,17 @@ Aprendendo
   </div>        
 
   
-⚡Curiosidade: 
+# ⚡Curiosidade: 
+1° Estou cursando ciência da computação.
 
-Me formei como técnica em eletrônica no ifb e desenvolvi um projeto de robótica de um cadeado eletrônico com sistema RFID.
+2° Sou técnica em eletrônica formada pelo IFB, e participei da criação de um cadeado eletrônico. Utilizamos um sensor RFID, display LCD, trava solenoide, Arduino e uma fonte de 12V, transformando-o em um cofre visualmente impressionante.
+Esse projeto foi o ponto alto do nosso curso, com funcionalidades marcantes. Por exemplo, se um cartão não é aproximado do leitor, surge a mensagem "Bem-vindo! Por favor, aproxime o cartão". Caso o ID do cartão não seja reconhecido, o sistema avisa: "Cartão negado, tente novamente". Mas ao apresentar o cartão autorizado, o sistema responde: "Bem-vindo!".
+Adicionamos um intervalo de 3 segundos antes de acionar a trava, garantindo um fechamento seguro e eficaz do cofre. Isso demonstra nosso compromisso com a segurança e funcionalidade prática.
+O projeto integra tecnologia de ponta e reflete nossa habilidade em aplicar conceitos práticos e funcionais de eletrônica. Representa como transformamos ideias inovadoras em soluções incríveis! 🚀
 
-## Contato:
+3° Gosto muito de acompanhar coisas sobre as inteligências artificiais e sobre história do mundo!
+
+## Fale comigo:
 
 <div>
 <a href = "mailto:contato@laraewellen@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
