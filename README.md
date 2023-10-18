@@ -9,8 +9,11 @@ Aprendendo
 <div>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"  width="40" height="40"/ 
   </div>        
-- 💬 Me pergunte sobre Arduino, robótica, eletrônica ou coisas relacionadas!          
-- ⚡ Curiosidade: Me formei como técnica em eletrônica no ifb e desenvolvi um projeto de robótica de um cadeado eletrônico com sistema RFID.
+
+  
+⚡Curiosidade: 
+
+Me formei como técnica em eletrônica no ifb e desenvolvi um projeto de robótica de um cadeado eletrônico com sistema RFID.
 
 ## Contato:
 
