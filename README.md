@@ -15,4 +15,4 @@
 - ⚡ Curiosidade: Me formei como técnica em eletrônica no ifb e desenvolvi um projeto de robótica de um cadeado eletrônico com sistema RFID.
 - - 📫 Você pode me encontrar no
   <a href = "mailto:contato@larawellen@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Laraewellen/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
