@@ -1,13 +1,14 @@
+<div>
 <div class="tenor-gif-embed" data-postid="14796708" data-share-method="host" data-aspect-ratio="0.8" data-width="100%"><a href="https://tenor.com/view/cat-funny-cat-pc-cat-reading-workaholics-gif-14796708">Cat Funny Cat GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 # Olá, me chamo Lara! 
 ## Bem vindo ao meu perfil GitHub 👋
+</div>
 - 🔭 Atualmente estou cursando Ciência da Computação.
 - 🌱 Aprendendo
-
+<div>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-          
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-          
+  </div>        
 - 💬 Me pergunte sobre Arduino, robótica, eletrônica ou coisas relacionadas!
   
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
