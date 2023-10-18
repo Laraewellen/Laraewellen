@@ -6,8 +6,7 @@
 - 🔭 Atualmente estou cursando Ciência da Computação.
 - 🌱 Aprendendo
 <div>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"       max-width: 100vw;
-      width:150px;/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   </div>        
 - 💬 Me pergunte sobre Arduino, robótica, eletrônica ou coisas relacionadas!
   
