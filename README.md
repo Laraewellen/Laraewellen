@@ -1,6 +1,15 @@
 
 # 🌟 Hey! Sou a Lara!
-# Você está prestes a explorar meu mundo de códigos e projetos incríveis. Bem vindo(a) 🚀
+## Você está prestes a explorar meu mundo de códigos e projetos incríveis. Bem vindo(a) 🚀
+<div>
+      <img align="right" src="https://komarev.com/ghpvc/?username=andreinaoliveira&color=ff69b4"><br>
+<div align="center">
+  <a href="https://github.com/andreinaoliveira">
+    <img align="center" src="Welcome.png" width="500">
+  </a>
+</div> 
+</div>
+
 
 
 
