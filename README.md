@@ -1,19 +1,18 @@
 
 # 🌟 Hey! Sou a Lara!    
+![octocat-1697678231229](https://github.com/Laraewellen/Laraewellen/assets/134017004/a9dac723-4cfd-46d0-a0c1-8fb74a36229c)
 
-<img scr=![octocat-1697675906461](https://github.com/Laraewellen/Laraewellen/assets/134017004/5c0e39fd-5f6a-48f3-b061-90ee8f847097) height="100" width="100"/>
 
 
 # Você está prestes a explorar meu mundo de códigos e projetos incríveis. Bem vindo(a) 🚀
 
 
 
-
-
 Aprendendo
 <div>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"  width="40" height="40"/ >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"  width="40" height="40"/>
+          
   </div>        
 
   
