@@ -15,9 +15,6 @@
 
 ### Aprendendo
 <div align="center">
-  <a href="[(https://github.com/Laraewellen/Laraewellen/blob/6ea6b207b4ffe0c65b207b1fa99cd14c9148848f/.github/icons8-arduino-128.png)](https://github.com/Laraewellen/Laraewellen/blob/6ea6b207b4ffe0c65b207b1fa99cd14c9148848f/.github/icons8-arduino-128.png)">
-    <img center="left" src="https://github.com/Laraewellen/Laraewellen/blob/6ea6b207b4ffe0c65b207b1fa99cd14c9148848f/.github/icons8-arduino-128.png" width="40" heigth=60"/>
-     </a>
   <a href="[(https://github.com/Laraewellen/Laraewellen/blob/377bad01662e55b16ae5f87898728100f72a7fa1/.github/002-c.png)](https://github.com/Laraewellen/Laraewellen/blob/main/.github/002-c.png)">
     <img align="center" src="https://github.com/Laraewellen/Laraewellen/blob/377bad01662e55b16ae5f87898728100f72a7fa1/.github/002-c.png" width="40" heigth="40"/>
      </a>
