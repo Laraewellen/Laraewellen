@@ -1,22 +1,21 @@
-<div>
-  <img href="https://github.com/Laraewellen/Laraewellen/blob/main/.github/octocat-1697678231229.png"/>
+<div align="left">
+  <a href="(https://github.com/Laraewellen/Laraewellen/blob/cfd9b146f9c4de3ddcb575e434944fd1894f2d5b/.github/octocat-1697678231229.png)(https://github.com/Laraewellen/Laraewellen/blob/cfd9b146f9c4de3ddcb575e434944fd1894f2d5b/.github/octocat-1697678231229.png)">
+    <img align="left" src="https://github.com/Laraewellen/Laraewellen/blob/cfd9b146f9c4de3ddcb575e434944fd1894f2d5b/.github/octocat-1697678231229.png" width="300" heigth="300"/>
+  </a>
 </div>
-
-# 🌟 Hey! Sou a Lara!  
-
-<div align="right">    
-  <img align="left" scr=![img](https://github.com/Laraewellen/Laraewellen/assets/134017004/ea33090b-c894-45a6-85c5-0484d777dd14) width="100" height="100"/> </div> 
-
 <br>
 
-# Você está prestes a explorar meu mundo de códigos e projetos incríveis. Bem vindo(a) 🚀
+# 🌟 Hey! Sou a Lara!  
+<br>
+
+## Você está prestes a explorar meu mundo de códigos e projetos incríveis. Bem vindo(a) 🚀
+<br>
 
 
-
-Aprendendo
+### Aprendendo
 <div>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"  width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
           
   </div>        
 
