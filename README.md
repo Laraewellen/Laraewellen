@@ -1,8 +1,10 @@
 
-# 🌟 Hey! Sou a Lara!    
-<div align="right">    
-  <img align="left" scr=![octocat-1697675906461](https://github.com/Laraewellen/Laraewellen/assets/134017004/a5d15dd3-cfcf-4999-b957-3a568521daeb) width="100" height="100"/> </div> 
+# 🌟 Hey! Sou a Lara!  
 
+<div align="right">    
+  <img align="left" scr=![img](https://github.com/Laraewellen/Laraewellen/assets/134017004/ea33090b-c894-45a6-85c5-0484d777dd14) width="100" height="100"/> </div> 
+
+<br>
 
 # Você está prestes a explorar meu mundo de códigos e projetos incríveis. Bem vindo(a) 🚀
 
