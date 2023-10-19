@@ -3,6 +3,7 @@
 <div align="left">
   <a href="(https://github.com/Laraewellen/Laraewellen/blob/cfd9b146f9c4de3ddcb575e434944fd1894f2d5b/.github/octocat-1697678231229.png)(https://github.com/Laraewellen/Laraewellen/blob/cfd9b146f9c4de3ddcb575e434944fd1894f2d5b/.github/octocat-1697678231229.png)">
     <img align="left" src="https://github.com/Laraewellen/Laraewellen/blob/cfd9b146f9c4de3ddcb575e434944fd1894f2d5b/.github/octocat-1697678231229.png" width="300" heigth="300"/>
+   
   </a>
 </div>
 <br>
@@ -14,11 +15,16 @@
 
 ### Aprendendo
 <div align="center">
-
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width="40" height="40"/> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40"/>
-          
-          
-  </div>        
+  <a href="[(https://github.com/Laraewellen/Laraewellen/blob/6ea6b207b4ffe0c65b207b1fa99cd14c9148848f/.github/icons8-arduino-128.png)](https://github.com/Laraewellen/Laraewellen/blob/6ea6b207b4ffe0c65b207b1fa99cd14c9148848f/.github/icons8-arduino-128.png)">
+    <img center="left" src="https://github.com/Laraewellen/Laraewellen/blob/6ea6b207b4ffe0c65b207b1fa99cd14c9148848f/.github/icons8-arduino-128.png" width="40" heigth=60"/>
+     </a>
+  <a href="[(https://github.com/Laraewellen/Laraewellen/blob/377bad01662e55b16ae5f87898728100f72a7fa1/.github/002-c.png)](https://github.com/Laraewellen/Laraewellen/blob/main/.github/002-c.png)">
+    <img align="center" src="https://github.com/Laraewellen/Laraewellen/blob/377bad01662e55b16ae5f87898728100f72a7fa1/.github/002-c.png" width="40" heigth="40"/>
+     </a>
+  <a href="[https://github.com/Laraewellen/Laraewellen/blob/377bad01662e55b16ae5f87898728100f72a7fa1/.github/001-java.png](https://github.com/Laraewellen/Laraewellen/blob/main/.github/001-java.png)">
+    <img align="center" src="https://github.com/Laraewellen/Laraewellen/blob/377bad01662e55b16ae5f87898728100f72a7fa1/.github/001-java.png" width="40" heigth="40"/>   
+  </a>  
+</div>
 <br>
 
 ### ⚡Curiosidade: 
