@@ -1,3 +1,5 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=andreinaoliveira&color=ff69b4"><br>
+<div align="center">
 <div align="left">
   <a href="(https://github.com/Laraewellen/Laraewellen/blob/cfd9b146f9c4de3ddcb575e434944fd1894f2d5b/.github/octocat-1697678231229.png)(https://github.com/Laraewellen/Laraewellen/blob/cfd9b146f9c4de3ddcb575e434944fd1894f2d5b/.github/octocat-1697678231229.png)">
     <img align="left" src="https://github.com/Laraewellen/Laraewellen/blob/cfd9b146f9c4de3ddcb575e434944fd1894f2d5b/.github/octocat-1697678231229.png" width="300" heigth="300"/>
