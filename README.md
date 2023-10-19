@@ -1,6 +1,7 @@
 
 # 🌟 Hey! Sou a Lara!    
-<div aling="center"> <img aling="center" scr=![octocat-1697675906461](https://github.com/Laraewellen/Laraewellen/assets/134017004/a70c6003-bd50-4493-904d-fcaf2566ef55) width="100" height="100"/> </div>
+<div aling="center"> 
+  <img scr=![octocat-1697675906461](https://github.com/Laraewellen/Laraewellen/assets/134017004/a70c6003-bd50-4493-904d-fcaf2566ef55) width="100" height="100"/> </div>
 # Você está prestes a explorar meu mundo de códigos e projetos incríveis. Bem vindo(a) 🚀
 
 
