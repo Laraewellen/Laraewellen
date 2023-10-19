@@ -1,7 +1,7 @@
 
 # 🌟 Hey! Sou a Lara!    
-![octocat-1697678231229](https://github.com/Laraewellen/Laraewellen/assets/134017004/a9dac723-4cfd-46d0-a0c1-8fb74a36229c)
-
+<div align="right">    
+  <img align="left" scr=![octocat-1697675906461](https://github.com/Laraewellen/Laraewellen/assets/134017004/a5d15dd3-cfcf-4999-b957-3a568521daeb) width="100" height="100"/> </div> 
 
 
 # Você está prestes a explorar meu mundo de códigos e projetos incríveis. Bem vindo(a) 🚀
