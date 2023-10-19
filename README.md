@@ -1,3 +1,6 @@
+<div>
+  <img href="https://github.com/Laraewellen/Laraewellen/blob/main/.github/octocat-1697678231229.png"/>
+</div>
 
 # 🌟 Hey! Sou a Lara!  
 
