@@ -1,9 +1,6 @@
 
-# 🌟 Hey! Sou a Lara!
-<div align="right">    
-  <img align="left" src=![octocat-1697675906461](https://github.com/Laraewellen/Laraewellen/assets/134017004/517369ed-1ba1-4d93-8226-02b433a2f9f9) width="100" height="100"/> 
-</div>
-
+# 🌟 Hey! Sou a Lara!    
+<div aling="center"> <img aling="center" scr=![octocat-1697675906461](https://github.com/Laraewellen/Laraewellen/assets/134017004/a70c6003-bd50-4493-904d-fcaf2566ef55) width="100" height="100"/> </div>
 # Você está prestes a explorar meu mundo de códigos e projetos incríveis. Bem vindo(a) 🚀
 
 
@@ -13,7 +10,7 @@
 Aprendendo
 <div>
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"  width="40" height="40"/ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"  width="40" height="40"/ >
   </div>        
 
   
