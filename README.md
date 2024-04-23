@@ -1,11 +1,16 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=andreinaoliveira&color=ff69b4"><br>
 <br>
 
+
 # 🌟 Hey! Sou a Lara!  👋
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+
 Bem vindo(a)!! 🚀
 - Eu tenho 19 anos
 - Sou Técnica em eletrônica.
 - Gosto de robótica, música, ia e história
+
 ##
 
 <div align="center">
@@ -16,7 +21,7 @@ Bem vindo(a)!! 🚀
     
 #
 
-## Fale comigo:
+### 💌Fale comigo: ⤵️
 
 <div>
 <a href = "mailto:contato@laraewellen@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
