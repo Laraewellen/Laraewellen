@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=Laraewellen&color=ff69b4"><br>
+<img align="right" src="https://komarev.com/ghpvc/?username=Laraewellen&color=4B0082"><br>
 <br>
 
 
