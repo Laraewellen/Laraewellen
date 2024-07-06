@@ -8,7 +8,7 @@
 
 Bem vindo(a)!! 🚀
 - Eu tenho 19 anos
-- Estou no 3° semestre de Ciência da computação
+- Estou no 4º semestre de Ciência da computação
 - Sou Técnica em eletrônica.
 - Gosto de robótica, música, ia e história
 
