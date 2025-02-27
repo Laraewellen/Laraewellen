@@ -7,8 +7,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 Bem vindo(a)!! 🚀
-- Eu tenho 19 anos
-- Estou no 4º semestre de Ciência da computação
+- Eu tenho 20 anos
+- Estou no 5º semestre de Ciência da computação
 - Sou Técnica em eletrônica.
 - Gosto de robótica, música, ia e história
 
