@@ -2,8 +2,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/Laraewellen/Laraewellen/blob/main/360002e4690d7889f7a3ca2ea406ea15.gif" alt="banner" width="1000" height= "200" />
+  <img src="https://i.imgur.com/x5dw8nX.gif" alt="banner" width="1000" height="200" />
 </div>
+
 <br><br>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=7F3FBF&width=1000&center=true&vCenter=true&lines=Ol%C3%A1%2C+sou+a+Lara;Bem-vindo(a)!" alt="Typing SVG" />
