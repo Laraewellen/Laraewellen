@@ -1,35 +1,28 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Laraewellen&color=4B0082"><br>
 <br>
 
-
 <div align="center">
   <img src="https://github.com/Laraewellen/Laraewellen/blob/main/360002e4690d7889f7a3ca2ea406ea15.gif" alt="banner" width="1000" height= "200" />
 </div>
-
-<div align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=7F3FBF&width=1000&lines=Ol%C3%A1%2C+sou+a+Lara;Bem-vindo!" alt="Typing SVG" style="max-width:100%; height:auto;" />
+<br><br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=7F3FBF&width=1000&center=true&vCenter=true&lines=Ol%C3%A1%2C+sou+a+Lara;Bem-vindo!" alt="Typing SVG" />
 </div>
-
-
-
-
-
+<br><br>
 <p align="center"><i>
 Rebooting purpose… Please wait
 </i>
   </p>
-  
-### Sobre mim:⤵️
+<img src="https://img.shields.io/badge/-Sobre%20mim-7F3FBF?style=for-the-badge&logo=about-dot-me&logoColor=white" />
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+Tenho 20 anos, sou estudante de 5º semestre Ciência da Computação, apaixonada por inteligência artificial, tecnologia e histórias que moldam o passado e inspiram o futuro.  
+<br>
+Acredito que cada passo faz parte de um plano maior e que o conhecimento tem o poder de transformar realidades.
 
-- Eu tenho 20 anos
-- Estou no 5º semestre de Ciência da computação
-- Sou Técnica em eletrônica.
-- Gosto de robótica, música, ia e história
 
-### 💌Fale comigo: ⤵️
+### Fale comigo: 
 
-<div>
+<div align="center">
 <a href = "mailto:contato@laraewellen@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lara-ewellen-bbaa81285" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
