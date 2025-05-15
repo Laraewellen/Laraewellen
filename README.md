@@ -19,13 +19,14 @@ Rebooting purpose… Please wait
 Tenho 20 anos, sou estudante de 5º semestre Ciência da Computação, apaixonada por inteligência artificial, tecnologia e histórias que moldam o passado e inspiram o futuro.  
 <br>
 Acredito que cada passo faz parte de um plano maior e que o conhecimento tem o poder de transformar realidades.
-
+<br>
 
 ### Fale comigo: 
 
-<div align="center">
-<a href = "mailto:contato@laraewellen@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lara-ewellen-bbaa81285" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<div>
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:contato@laraewellen@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/lara-ewellen-bbaa81285)
 </div>
 
 <br><br>
