@@ -13,6 +13,7 @@
 Rebooting purpose… Please wait
 </i>
   </p>
+  <br><br>
 <img src="https://img.shields.io/badge/-Sobre%20mim-7F3FBF?style=for-the-badge&logo=about-dot-me&logoColor=white" />
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 Tenho 20 anos, sou estudante de 5º semestre Ciência da Computação, apaixonada por inteligência artificial, tecnologia e histórias que moldam o passado e inspiram o futuro.  
