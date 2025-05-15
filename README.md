@@ -35,11 +35,7 @@ Acredito que cada passo faz parte de um plano maior e que o conhecimento tem o p
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Laraewellen&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laraewellen&layout=compact&langs_count=7&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
   </div>
-<p align="center">
-      <a href="https://github.com/Laraewellen">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laraewellen&theme=radical" alt=" GitHub contribuições"/>
-  </a>
-
+    <br>
 
 ## Alguns projetos
 <div align="center">
