@@ -85,4 +85,4 @@ Acredito que cada passo faz parte de um plano maior e que o conhecimento tem o p
 </p>
 
 <br><br>
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Laraewellen&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![LaraEwellens'scontribuitongrafic](https://github-readme-activity-graph.vercel.app/graph?username=Laraewellen&custom_title=&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
