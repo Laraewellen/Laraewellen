@@ -68,8 +68,8 @@ Acredito que cada passo faz parte de um plano maior e que o conhecimento tem o p
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Laraewellen/SOS-Mulher-Segura">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laraewellen&repo=SOS-Mulher-Segura&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+      <a href="https://github.com/Laraewellen/SOS_Mulher_Segura">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laraewellen&repo=SOS_Mulher_Segura&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
       </a>
     </td>
     <td>
