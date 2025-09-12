@@ -20,9 +20,6 @@
 
 Tenho 20 anos, sou estudante do 6º semestre de **Ciência da Computação**, apaixonada por **inteligência artificial, tecnologia** e por **histórias que conectam o passado, transformam o presente e inspiram o futuro**.  
 
-Atualmente, estou me aprofundando em **UX/UI Design**, explorando ferramentas como **Figma**, desenvolvimento web com **HTML, CSS e JavaScript** e banco de dados com **MySQL**.  
-
-Também possuo experiência em **Robótica, C, Python e Java**, o que me permite transitar entre áreas criativas e técnicas.  
 
 ✨ Acredito que cada passo faz parte de um plano maior e que o conhecimento tem o poder de transformar realidades.  
 
