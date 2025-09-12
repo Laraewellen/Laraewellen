@@ -36,11 +36,15 @@ Sou apaixonada por **inteligência artificial, tecnologia** e por **histórias q
 - 🖥️ **C**  
 - 🐍 **Python**  
 - ☕ **Java**
+<br><br>
+<div align="center">
 
+### 📬 Fale comigo  
 
-### Fale comigo
 [![Gmail](https://img.shields.io/badge/Gmail-7F3FBF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@laraewellen@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7F3FBF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lara-ewellen-bbaa81285)
+
+</div>
 
 ---
 
