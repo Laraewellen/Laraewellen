@@ -60,12 +60,13 @@ Também possuo experiência em **Robótica, C, Python e Java**, o que me permite
 
 ## <img src="https://img.shields.io/badge/-Estatísticas-7F3FBF?style=for-the-badge&logo=github&logoColor=white" />
 
+<br><br>
 <div align="center">
   <a href="https://github.com/Laraewellen">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Laraewellen&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=7F3FBF&icon_color=7F3FBF&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laraewellen&layout=compact&langs_count=7&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=7F3FBF&icon_color=7F3FBF"/>
-  </a>
-</div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Laraewellen&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laraewellen&layout=compact&langs_count=7&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+  </div>
+    <br>
 
 ---
 
