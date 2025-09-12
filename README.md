@@ -22,13 +22,12 @@ Tenho 20 anos, sou estudante de 6º semestre Ciência da Computação, apaixonad
 Acredito que cada passo faz parte de um plano maior e que o conhecimento tem o poder de transformar realidades.
 <br>
 
-### Fale comigo: 
 
-<div>
-  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:contato@laraewellen@gmail.com)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/lara-ewellen-bbaa81285)
-</div>
+### Fale comigo
+[![Gmail](https://img.shields.io/badge/Gmail-7F3FBF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@laraewellen@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7F3FBF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lara-ewellen-bbaa81285)
+
+---
 
 <br><br>
 <div align="center">
@@ -37,6 +36,7 @@ Acredito que cada passo faz parte de um plano maior e que o conhecimento tem o p
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laraewellen&layout=compact&langs_count=7&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
   </div>
     <br>
+    
 
 ## Alguns projetos
 <div align="center">
@@ -82,8 +82,11 @@ Acredito que cada passo faz parte de um plano maior e que o conhecimento tem o p
 </div>
 <br><br>
 <p align="left">
-  <a href="https://github.com/Laraewellen?tab=repositories" target="_blank"><img alt="Todos os repositórios" title="Todos os repositórios" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/Laraewellen?tab=repositories" target="_blank"><img alt="Todos os repositórios" title="Todos os repositórios" src="https://img.shields.io/badge/Todos%20os%20Repositórios-7F3FBF?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<br><br>
-![LaraEwellens'scontribuitongrafic](https://github-readme-activity-graph.vercel.app/graph?username=Laraewellen&custom_title=&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+---
+
+![LaraEwellen's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Laraewellen&custom_title=Minha%20atividade%20no%20GitHub&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=7F3FBF&title_color=FFFFFF&area=true)
+
+---
