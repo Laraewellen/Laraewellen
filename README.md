@@ -28,19 +28,31 @@ Também possuo experiência em **Robótica, C, Python e Java**, o que me permite
 
 ---
 
-## <img src="https://img.shields.io/badge/-Skills-1E90FF?style=for-the-badge&logo=awesomelists&logoColor=white" />
+## <img src="https://img.shields.io/badge/-Fale%20comigo-7F3FBF?style=for-the-badge&logo=wechat&logoColor=white" />
 
 <div align="center">
 
-![HTML](https://img.shields.io/badge/HTML5-1E90FF?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E90FF?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-7F3FBF?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-7F3FBF?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-7F3FBF?style=for-the-badge&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00BFFF?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-9B59B6?style=for-the-badge&logo=figma&logoColor=white)
-![Robótica](https://img.shields.io/badge/Robótica-9B59B6?style=for-the-badge&logo=arduino&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-7F3FBF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@laraewellen@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lara-ewellen-bbaa81285)
+[![GitHub](https://img.shields.io/badge/GitHub-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laraewellen)
+
+</div>
+
+---
+
+## <img src="https://img.shields.io/badge/-Skills-7F3FBF?style=for-the-badge&logo=awesomelists&logoColor=white" />
+
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML5-7F3FBF?style=for-the-badge&logo=html5&logoColor=white&color=7F3FBF&labelColor=1E90FF)
+![CSS](https://img.shields.io/badge/CSS3-7F3FBF?style=for-the-badge&logo=css3&logoColor=white&color=7F3FBF&labelColor=1E90FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-7F3FBF?style=for-the-badge&logo=javascript&logoColor=white&color=7F3FBF&labelColor=1E90FF)
+![Python](https://img.shields.io/badge/Python-7F3FBF?style=for-the-badge&logo=python&logoColor=white&color=7F3FBF&labelColor=1E90FF)
+![Java](https://img.shields.io/badge/Java-7F3FBF?style=for-the-badge&logo=java&logoColor=white&color=7F3FBF&labelColor=1E90FF)
+![C](https://img.shields.io/badge/C-7F3FBF?style=for-the-badge&logo=c&logoColor=white&color=7F3FBF&labelColor=1E90FF)
+![MySQL](https://img.shields.io/badge/MySQL-7F3FBF?style=for-the-badge&logo=mysql&logoColor=white&color=7F3FBF&labelColor=1E90FF)
+![Figma](https://img.shields.io/badge/Figma-7F3FBF?style=for-the-badge&logo=figma&logoColor=white&color=7F3FBF&labelColor=1E90FF)
+![Robótica](https://img.shields.io/badge/Robótica-7F3FBF?style=for-the-badge&logo=arduino&logoColor=white&color=7F3FBF&labelColor=1E90FF)
 
 </div>
 
@@ -107,18 +119,6 @@ Também possuo experiência em **Robótica, C, Python e Java**, o que me permite
     <img alt="Todos os repositórios" title="Todos os repositórios" src="https://img.shields.io/badge/Todos%20os%20Repositórios-9B59B6?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
----
-
-## <img src="https://img.shields.io/badge/-Fale%20comigo-7F3FBF?style=for-the-badge&logo=wechat&logoColor=white" />
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-7F3FBF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@laraewellen@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lara-ewellen-bbaa81285)
-[![GitHub](https://img.shields.io/badge/GitHub-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laraewellen)
-
-</div>
 
 ---
 
