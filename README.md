@@ -17,10 +17,25 @@ Rebooting purpose… Please wait
   <br><br>
   <img src="https://i.imgur.com/4qu9td7.png" alt="girlcode" min-width="200px" max-width="200px" width="200px" align="right">
 <img src="https://img.shields.io/badge/-Sobre%20mim-7F3FBF?style=for-the-badge&logo=about-dot-me&logoColor=white" />
-Tenho 20 anos, sou estudante de 6º semestre Ciência da Computação, apaixonada por inteligência artificial, tecnologia e histórias que moldam o passado e inspiram o futuro.  
-<br>
-Acredito que cada passo faz parte de um plano maior e que o conhecimento tem o poder de transformar realidades.
-<br>
+
+✨ Tenho 20 anos e sou estudante do 6º semestre de **Ciência da Computação**.  
+Sou apaixonada por **inteligência artificial, tecnologia** e por **histórias que conectam o passado, transformam o presente e inspiram o futuro**.  
+
+🌸 Acredito que cada passo faz parte de um propósito maior e que o conhecimento é capaz de transformar realidades.  
+
+---
+
+### 📚 Atualmente estudando:
+- 🎨 **UX/UI Design**  
+- 🖌️ **Figma**  
+- 🌐 **HTML, CSS, JavaScript**  
+- 🗄️ **MySQL**
+
+### 💡 Experiências anteriores:
+- 🤖 **Robótica**  
+- 🖥️ **C**  
+- 🐍 **Python**  
+- ☕ **Java**
 
 
 ### Fale comigo
