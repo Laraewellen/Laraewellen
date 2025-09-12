@@ -1,0 +1,40 @@
+name: Update Commits Badge
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # roda todo dia à meia-noite (UTC)
+  workflow_dispatch:
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Get commits count for current month
+        id: commits
+        run: |
+          START=$(date +"%Y-%m-01T00:00:00Z")
+          END=$(date +"%Y-%m-%dT23:59:59Z")
+          COUNT=$(gh api \
+            -H "Accept: application/vnd.github+json" \
+            /search/commits \
+            -q ".total_count" \
+            --field q="author:${GITHUB_REPOSITORY_OWNER} committer-date:${START}..${END}" )
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate badge
+        run: |
+          npx badge-maker --label "Commits this month" --message "${{ steps.commits.outputs.count }}" --color "ff2d95" > commits-badge.svg
+
+      - name: Commit badge
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          mv commits-badge.svg ./commits-badge.svg
+          git add commits-badge.svg
+          git commit -m "Update commits badge"
+          git push
