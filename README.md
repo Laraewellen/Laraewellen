@@ -74,8 +74,8 @@ Tenho 20 anos, sou estudante do 6º semestre de **Ciência da Computação**, ap
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Laraewellen/DefesaCivil">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laraewellen&repo=DefesaCivil&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+      <a href="https://github.com/Laraewellen/SOS_Mulher_Segura">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laraewellen&repo=SOS_Mulher_Segura&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
       </a>
     </td>
     <td>
@@ -98,8 +98,8 @@ Tenho 20 anos, sou estudante do 6º semestre de **Ciência da Computação**, ap
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Laraewellen/SOS_Mulher_Segura">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laraewellen&repo=SOS_Mulher_Segura&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+      <a href="https://github.com/Laraewellen/Fixsi">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laraewellen&repo=Fixsi&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
       </a>
     </td>
     <td>
