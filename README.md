@@ -25,7 +25,7 @@ Tenho 20 anos, sou estudante do 6º semestre de **Ciência da Computação**, ap
 
 ---
 
-## <img src="https://img.shields.io/badge/-Fale%20comigo-7F3FBF?style=for-the-badge&logo=wechat&logoColor=white" />
+<img src="https://img.shields.io/badge/-Fale%20comigo-7F3FBF?style=for-the-badge&logo=wechat&logoColor=white" />
 
 <div align="center">
 
