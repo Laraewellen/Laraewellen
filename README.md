@@ -37,7 +37,7 @@ Tenho 20 anos, sou estudante do 6º semestre de **Ciência da Computação**, ap
 
 ---
 
-## <img src="https://img.shields.io/badge/-Skills-7F3FBF?style=for-the-badge&logo=awesomelists&logoColor=white" />
+<img src="https://img.shields.io/badge/-Skills-7F3FBF?style=for-the-badge&logo=awesomelists&logoColor=white" />
 
 <div align="center">
 
@@ -55,7 +55,7 @@ Tenho 20 anos, sou estudante do 6º semestre de **Ciência da Computação**, ap
 
 ---
 
-## <img src="https://img.shields.io/badge/-Estatísticas-7F3FBF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/-Estatísticas-7F3FBF?style=for-the-badge&logo=github&logoColor=white" />
 
 <br><br>
 <div align="center">
@@ -67,7 +67,7 @@ Tenho 20 anos, sou estudante do 6º semestre de **Ciência da Computação**, ap
 
 ---
 
-## <img src="https://img.shields.io/badge/-Projetos%20em%20destaque-7F3FBF?style=for-the-badge&logo=github&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Projetos%20em%20destaque-7F3FBF?style=for-the-badge&logo=github&logoColor=white" />
 
 <div align="center">
 
