@@ -12,25 +12,23 @@
 
 <p align="center"><i>Rebooting purpose… Please wait ✨🌌</i></p>
 
+
+ <img src="https://img.shields.io/badge/-Sobre%20mim-7F3FBF?style=for-the-badge&logo=sparkles&logoColor=white" />
+
+<img src="https://i.imgur.com/4qu9td7.png" alt="girlcode" width="200" align="right" style="margin-left: 20px; border-radius: 14px; box-shadow: 0px 0px 12px #7F3FBF55;" />
+
+Tenho 20 anos, sou estudante do 6º semestre de **Ciência da Computação**, apaixonada por **IA, tecnologia, criação de soluções** e por **histórias que conectam passado, presente e futuro**.
+
+✨ Acredito que a tecnologia transforma vidas, e quero usar o que aprendo para criar impacto real — especialmente em projetos de **segurança, inclusão feminina e desenvolvimento social**.  
+
 ---
+ <img src="https://img.shields.io/badge/-Fale%20comigo-7F3FBF?style=for-the-badge&logo=wechat&logoColor=white" />
 
- <img src="https://img.shields.io/badge/-Sobre%20mim-7F3FBF?style=for-the-badge&logo=about-dot-me&logoColor=white" />
+<div align="center" style="margin-top: 10px;">
 
-<img src="https://i.imgur.com/4qu9td7.png" alt="girlcode" width="200" align="right" style="margin-left: 20px; border-radius: 12px;" />
-
-Tenho 20 anos, sou estudante do 6º semestre de **Ciência da Computação**, apaixonada por **inteligência artificial, tecnologia** e por **histórias que conectam o passado, transformam o presente e inspiram o futuro**.
-
-✨ Acredito que cada passo faz parte de um plano maior e que o conhecimento tem o poder de transformar realidades.  
-
----
-
-<img src="https://img.shields.io/badge/-Fale%20comigo-7F3FBF?style=for-the-badge&logo=wechat&logoColor=white" />
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-7F3FBF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E90FF)](mailto:contato@laraewellen@gmail.com)
+[![Gmail](https://img.shields.io/badge/E--mail-7F3FBF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E90FF)](mailto:contato@laraewellen@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7F3FBF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E90FF)](https://www.linkedin.com/in/lara-ewellen-bbaa81285)
-[![GitHub](https://img.shields.io/badge/GitHub-7F3FBF?style=for-the-badge&logo=github&logoColor=white&labelColor=1E90FF)](https://github.com/Laraewellen)
+[![GitHub](https://img.shields.io/badge/Meu%20GitHub-7F3FBF?style=for-the-badge&logo=github&logoColor=white&labelColor=1E90FF)](https://github.com/Laraewellen)
 
 </div>
 
@@ -40,30 +38,30 @@ Tenho 20 anos, sou estudante do 6º semestre de **Ciência da Computação**, ap
 
 <div align="center">
 
-![HTML](https://img.shields.io/badge/HTML5-7F3FBF?style=for-the-badge&logo=html5&logoColor=white&labelColor=1E90FF)
-![CSS](https://img.shields.io/badge/CSS3-7F3FBF?style=for-the-badge&logo=css3&logoColor=white&labelColor=1E90FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-7F3FBF?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1E90FF)
-![Python](https://img.shields.io/badge/Python-7F3FBF?style=for-the-badge&logo=python&logoColor=white&labelColor=1E90FF)
-![Java](https://img.shields.io/badge/Java-7F3FBF?style=for-the-badge&logo=java&logoColor=white&labelColor=1E90FF)
-![C](https://img.shields.io/badge/C-7F3FBF?style=for-the-badge&logo=c&logoColor=white&labelColor=1E90FF)
-![MySQL](https://img.shields.io/badge/MySQL-7F3FBF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1E90FF)
-![Figma](https://img.shields.io/badge/Figma-7F3FBF?style=for-the-badge&logo=figma&logoColor=white&labelColor=1E90FF)
-![Robótica](https://img.shields.io/badge/Robótica-7F3FBF?style=for-the-badge&logo=arduino&logoColor=white&labelColor=1E90FF)
+![HTML](https://img.shields.io/badge/HTML5-7F3FBF?style=flat-square&logo=html5&logoColor=white&labelColor=1E90FF)
+![CSS](https://img.shields.io/badge/CSS3-7F3FBF?style=flat-square&logo=css3&logoColor=white&labelColor=1E90FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-7F3FBF?style=flat-square&logo=javascript&logoColor=white&labelColor=1E90FF)
+![Python](https://img.shields.io/badge/Python-7F3FBF?style=flat-square&logo=python&logoColor=white&labelColor=1E90FF)
+![Java](https://img.shields.io/badge/Java-7F3FBF?style=flat-square&logo=java&logoColor=white&labelColor=1E90FF)
+![C](https://img.shields.io/badge/C-7F3FBF?style=flat-square&logo=c&logoColor=white&labelColor=1E90FF)
+![MySQL](https://img.shields.io/badge/MySQL-7F3FBF?style=flat-square&logo=mysql&logoColor=white&labelColor=1E90FF)
+![Figma](https://img.shields.io/badge/Figma-7F3FBF?style=flat-square&logo=figma&logoColor=white&labelColor=1E90FF)
+![Robótica](https://img.shields.io/badge/Robótica-7F3FBF?style=flat-square&logo=arduino&logoColor=white&labelColor=1E90FF)
 
 </div>
 
 ---
 
-<img src="https://img.shields.io/badge/-Projetos%20em%20destaque-7F3FBF?style=for-the-badge&logo=github&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Projetos%20em%20Destaque-7F3FBF?style=for-the-badge&logo=github&logoColor=white" />
 
 <div align="center">
 
 <table>
   <tr>
-    <td width="450" style="padding: 15px;">
+    <td width="450" style="padding: 18px; border-radius: 12px;">
       <h3 align="center">🔐 SOS Mulher Segura</h3>
-      <p align="center">Plataforma web para segurança de mulheres, com alertas, denúncias e cadastro de vítimas.</p>
-      <div align="center">
+      <p align="center">Sistema web para apoiar mulheres em situação de risco, com alertas, denúncias e proteção.</p>
+      <div align="center" style="margin: 10px 0;">
         <img src="https://img.shields.io/badge/Python-7F3FBF?style=flat-square&logo=python&logoColor=white&labelColor=1E90FF" />
         <img src="https://img.shields.io/badge/Django-7F3FBF?style=flat-square&logo=django&logoColor=white&labelColor=1E90FF" />
         <img src="https://img.shields.io/badge/HTML-7F3FBF?style=flat-square&logo=html5&logoColor=white&labelColor=1E90FF" />
@@ -72,10 +70,10 @@ Tenho 20 anos, sou estudante do 6º semestre de **Ciência da Computação**, ap
       </div>
       <p align="center"><a href="https://github.com/Laraewellen/SOS_Mulher_Segura">🔗 Ver repositório</a></p>
     </td>
-    <td width="450" style="padding: 15px;">
+    <td width="450" style="padding: 18px; border-radius: 12px;">
       <h3 align="center">🛠️ Fixsi</h3>
-      <p align="center">Plataforma que conecta prestadores de serviço e aluguel de ferramentas.</p>
-      <div align="center">
+      <p align="center">Plataforma que conecta prestadores de serviços ao aluguel de ferramentas.</p>
+      <div align="center" style="margin: 10px 0;">
         <img src="https://img.shields.io/badge/Python-7F3FBF?style=flat-square&logo=python&logoColor=white&labelColor=1E90FF" />
         <img src="https://img.shields.io/badge/Django-7F3FBF?style=flat-square&logo=django&logoColor=white&labelColor=1E90FF" />
         <img src="https://img.shields.io/badge/HTML-7F3FBF?style=flat-square&logo=html5&logoColor=white&labelColor=1E90FF" />
@@ -87,19 +85,19 @@ Tenho 20 anos, sou estudante do 6º semestre de **Ciência da Computação**, ap
   </tr>
 
   <tr>
-    <td width="450" style="padding: 15px;">
+    <td width="450" style="padding: 18px; border-radius: 12px;">
       <h3 align="center">🤖 Cadeado Eletrônico</h3>
       <p align="center">Cofre eletrônico com RFID, solenoide e Arduino.</p>
-      <div align="center">
+      <div align="center" style="margin: 10px 0;">
         <img src="https://img.shields.io/badge/Arduino-7F3FBF?style=flat-square&logo=arduino&logoColor=white&labelColor=1E90FF" />
         <img src="https://img.shields.io/badge/C-7F3FBF?style=flat-square&logo=c&logoColor=white&labelColor=1E90FF" />
       </div>
       <p align="center"><a href="https://github.com/Laraewellen/cadeado-eletronico">🔗 Ver repositório</a></p>
     </td>
-    <td width="450" style="padding: 15px;">
+    <td width="450" style="padding: 18px; border-radius: 12px;">
       <h3 align="center">🎮 Quiz de Personagens</h3>
-      <p align="center">Quiz estilo “quem é você?” com HTML, CSS e JS.</p>
-      <div align="center">
+      <p align="center">Quiz “Quem é você?” com HTML, CSS e JavaScript.</p>
+      <div align="center" style="margin: 10px 0;">
         <img src="https://img.shields.io/badge/HTML-7F3FBF?style=flat-square&logo=html5&logoColor=white&labelColor=1E90FF" />
         <img src="https://img.shields.io/badge/CSS-7F3FBF?style=flat-square&logo=css3&logoColor=white&labelColor=1E90FF" />
         <img src="https://img.shields.io/badge/JavaScript-7F3FBF?style=flat-square&logo=javascript&logoColor=white&labelColor=1E90FF" />
@@ -109,18 +107,18 @@ Tenho 20 anos, sou estudante do 6º semestre de **Ciência da Computação**, ap
   </tr>
 
   <tr>
-    <td width="450" style="padding: 15px;">
+    <td width="450" style="padding: 18px; border-radius: 12px;">
       <h3 align="center">🍔 Hamburgueriaz.app</h3>
       <p align="center">Sistema para gestão de pedidos da hamburgueria.</p>
-      <div align="center">
+      <div align="center" style="margin: 10px 0;">
         <img src="https://img.shields.io/badge/Frontend-7F3FBF?style=flat-square&logo=html5&logoColor=white&labelColor=1E90FF" />
       </div>
       <p align="center"><a href="https://github.com/Laraewellen/Hamburgueriaz.app">🔗 Ver repositório</a></p>
     </td>
-    <td width="450" style="padding: 15px;">
+    <td width="450" style="padding: 18px; border-radius: 12px;">
       <h3 align="center">🚨 Defesa Civil</h3>
-      <p align="center">Sistema para gestão de vítimas e emergências (inundação, vendaval, etc.).</p>
-      <div align="center">
+      <p align="center">Sistema para gestão de vítimas e emergências.</p>
+      <div align="center" style="margin: 10px 0;">
         <img src="https://img.shields.io/badge/Java-7F3FBF?style=flat-square&logo=java&logoColor=white&labelColor=1E90FF" />
         <img src="https://img.shields.io/badge/MySQL-7F3FBF?style=flat-square&logo=mysql&logoColor=white&labelColor=1E90FF" />
       </div>
