@@ -1,5 +1,5 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Laraewellen&color=4B0082">
-
+<br>
 <div align="center">
   <img src="https://i.imgur.com/x5dw8nX.gif" alt="banner" width="1000" height="200" />
 </div>
