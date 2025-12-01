@@ -17,9 +17,9 @@
 
 <img src="https://i.imgur.com/4qu9td7.png" alt="girlcode" width="200" align="right" style="margin-left: 20px; border-radius: 14px; box-shadow: 0px 0px 12px #7F3FBF55;" />
 
-Tenho 20 anos e, desde pequena, sempre fui curiosa sobre como as coisas funcionam. Enquanto muita gente via filmes de robôs e inteligências artificiais só como entretenimento, eu enxergava possibilidade. Imaginava como seria criar algo daquele jeito um dia. No ensino médio fiz técnico em Eletrônica, entrei para a robótica, programei com Arduino e senti pela primeira vez a alegria de ver uma ideia ganhar vida. Foi aí que percebi que tecnologia não era apenas um interesse, era parte de quem eu sou.
+Tenho 20 anos e, desde pequena, sempre fui curiosa sobre como as coisas funcionam. Eu via filmes de robôs, como Wall-E e Eva, e não conseguia apenas assistir. Ficava imaginando como seria criar algo daquele jeito um dia. No ensino médio fiz técnico em Eletrônica, entrei para a robótica, programei com Arduino e descobri o quanto eu gostava de ver uma ideia ganhar vida.
 
-Hoje estou no 6º semestre de Ciência da Computação e já participei de projetos que marcaram muito meu caminho, como SOS Mulher Segura, Defesa Civil e Fixsi. Cada um deles me ensinou algo novo e me mostrou como tecnologia pode realmente impactar pessoas. Trabalho com C, Java, Python, JavaScript, HTML, CSS, MySQL, Git, UI/UX e Figma e continuo explorando tudo que desperta minha curiosidade.
+Hoje estou no 6º semestre de Ciência da Computação e já participei de projetos como SOS Mulher Segura, Defesa Civil e Fixsi. Cada um deles me mostrou um lado diferente da tecnologia e o impacto real que ela pode gerar. Trabalho com C, Java, Python, JavaScript, HTML, CSS, MySQL, Git, UI/UX e Figma e sigo explorando tudo que desperta minha curiosidade.
 
 O que me motiva é criar coisas que façam sentido. Gosto de resolver problemas, melhorar o que já existe e deixar tudo mais simples, útil e bonito. Acredito que tecnologia também é uma forma de cuidado e quero continuar construindo projetos que ajudem, acolham e transformem, mesmo que seja aos poucos, um passo ou um commit de cada vez. 💜
 
