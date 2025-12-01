@@ -17,11 +17,11 @@
 
 <img src="https://i.imgur.com/4qu9td7.png" alt="girlcode" width="200" align="right" style="margin-left: 20px; border-radius: 14px; box-shadow: 0px 0px 12px #7F3FBF55;" />
 
-Tenho 20 anos e, desde pequena, sempre fui curiosa sobre como as coisas funcionam. Eu via filmes de robôs, como Wall-E e Eva, e não conseguia apenas assistir. Ficava imaginando como seria criar algo daquele jeito um dia. No ensino médio fiz técnico em Eletrônica, entrei para a robótica, programei com Arduino e descobri o quanto eu gostava de ver uma ideia ganhar vida.
+Tenho 20 anos e sempre fui curiosa sobre como as coisas funcionam. Desde pequena eu assistia Wall-E e Eva imaginando como seria criar algo daquele jeito. No ensino médio fiz técnico em Eletrônica, entrei para a robótica, programei com Arduino e descobri o quanto eu gostava de transformar ideias em algo real.
 
-Hoje estou no 6º semestre de Ciência da Computação e já participei de projetos como SOS Mulher Segura, Defesa Civil e Fixsi. Cada um deles me mostrou um lado diferente da tecnologia e o impacto real que ela pode gerar. 
+Hoje estou no 6º semestre de Ciência da Computação e participei de projetos como SOS Mulher Segura, Defesa Civil e Fixsi, que me mostraram o impacto real da tecnologia na vida das pessoas.
 
-O que me motiva é criar coisas que façam sentido. Gosto de resolver problemas, melhorar o que já existe e deixar tudo mais simples, útil e bonito. Acredito que tecnologia também é uma forma de cuidado e quero continuar construindo projetos que ajudem, acolham e transformem, mesmo que seja aos poucos, um passo ou um commit de cada vez. 💜
+O que me motiva é criar coisas que façam sentido. Gosto de resolver problemas, melhorar o que já existe e deixar tudo mais simples, útil e bonito. Acredito que tecnologia também é uma forma de cuidado e quero continuar construindo projetos que transformem, um passo ou um commit de cada vez. 💜
 
 ---
  <img src="https://img.shields.io/badge/-Fale%20comigo-7F3FBF?style=for-the-badge&logo=wechat&logoColor=white" />
@@ -40,17 +40,20 @@ O que me motiva é criar coisas que façam sentido. Gosto de resolver problemas,
 
 <div align="center">
 
-![HTML](https://img.shields.io/badge/HTML5-7F3FBF?style=flat-square&logo=html5&logoColor=white&labelColor=1E90FF)
-![CSS](https://img.shields.io/badge/CSS3-7F3FBF?style=flat-square&logo=css3&logoColor=white&labelColor=1E90FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-7F3FBF?style=flat-square&logo=javascript&logoColor=white&labelColor=1E90FF)
-![Python](https://img.shields.io/badge/Python-7F3FBF?style=flat-square&logo=python&logoColor=white&labelColor=1E90FF)
-![Java](https://img.shields.io/badge/Java-7F3FBF?style=flat-square&logo=java&logoColor=white&labelColor=1E90FF)
-![C](https://img.shields.io/badge/C-7F3FBF?style=flat-square&logo=c&logoColor=white&labelColor=1E90FF)
-![MySQL](https://img.shields.io/badge/MySQL-7F3FBF?style=flat-square&logo=mysql&logoColor=white&labelColor=1E90FF)
-![Figma](https://img.shields.io/badge/Figma-7F3FBF?style=flat-square&logo=figma&logoColor=white&labelColor=1E90FF)
-![Robótica](https://img.shields.io/badge/Robótica-7F3FBF?style=flat-square&logo=arduino&logoColor=white&labelColor=1E90FF)
+![HTML](https://img.shields.io/badge/HTML5-7F3FBF?style=for-the-badge&logo=html5&logoColor=white&labelColor=1E90FF)
+![CSS](https://img.shields.io/badge/CSS3-7F3FBF?style=for-the-badge&logo=css3&logoColor=white&labelColor=1E90FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-7F3FBF?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1E90FF)
+![Python](https://img.shields.io/badge/Python-7F3FBF?style=for-the-badge&logo=python&logoColor=white&labelColor=1E90FF)
+![Java](https://img.shields.io/badge/Java-7F3FBF?style=for-the-badge&logo=java&logoColor=white&labelColor=1E90FF)
+![C](https://img.shields.io/badge/C-7F3FBF?style=for-the-badge&logo=c&logoColor=white&labelColor=1E90FF)
+![MySQL](https://img.shields.io/badge/MySQL-7F3FBF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1E90FF)
+![UI/UX 🎨](https://img.shields.io/badge/UI%2FUX%20🎨-7F3FBF?style=for-the-badge&labelColor=1E90FF)
+![Figma](https://img.shields.io/badge/Figma-7F3FBF?style=for-the-badge&logo=figma&logoColor=white&labelColor=1E90FF)
+![Scrum](https://img.shields.io/badge/Scrum-7F3FBF?style=for-the-badge&logo=scrumalliance&logoColor=white&labelColor=1E90FF)
+![Robótica](https://img.shields.io/badge/Robótica-7F3FBF?style=for-the-badge&logo=arduino&logoColor=white&labelColor=1E90FF)
 
 </div>
+
 
 ---
 
