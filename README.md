@@ -69,28 +69,87 @@ Tenho 20 anos, sou estudante do 6º semestre de **Ciência da Computação**, ap
 
  <img src="https://img.shields.io/badge/-Projetos%20em%20destaque-7F3FBF?style=for-the-badge&logo=github&logoColor=white" />
 
-<br>
 
 <div align="center">
 
-| Projeto | Descrição rápida | Tecnologias |
-| ------ | ---------------- | ----------- |
-| [SOS_Mulher_Segura](https://github.com/Laraewellen/SOS_Mulher_Segura) | Plataforma web para segurança de mulheres: cadastro de vítimas, denúncias e alertas. | ![Python](https://img.shields.io/badge/Python-7F3FBF?style=for-the-badge&logo=python&logoColor=white&labelColor=1E90FF) ![Django](https://img.shields.io/badge/Django-7F3FBF?style=for-the-badge&logo=django&logoColor=white&labelColor=1E90FF) ![HTML](https://img.shields.io/badge/HTML-7F3FBF?style=for-the-badge&logo=html5&logoColor=white&labelColor=1E90FF) ![CSS](https://img.shields.io/badge/CSS-7F3FBF?style=for-the-badge&logo=css3&logoColor=white&labelColor=1E90FF) ![JS](https://img.shields.io/badge/JavaScript-7F3FBF?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1E90FF) |
-| [Fixsi](https://github.com/Laraewellen/Fixsi) | Plataforma que conecta prestadores de serviço e aluguel de ferramentas. | ![Python](https://img.shields.io/badge/Python-7F3FBF?style=for-the-badge&logo=python&logoColor=white&labelColor=1E90FF) ![Django](https://img.shields.io/badge/Django-7F3FBF?style=for-the-badge&logo=django&logoColor=white&labelColor=1E90FF) ![HTML](https://img.shields.io/badge/HTML-7F3FBF?style=for-the-badge&logo=html5&logoColor=white&labelColor=1E90FF) ![CSS](https://img.shields.io/badge/CSS-7F3FBF?style=for-the-badge&logo=css3&logoColor=white&labelColor=1E90FF) ![JS](https://img.shields.io/badge/JavaScript-7F3FBF?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1E90FF) |
-| [cadeado-eletronico](https://github.com/Laraewellen/cadeado-eletronico) | Cofre eletrônico com RFID, solenoide e Arduino desenvolvido no técnico. | ![C](https://img.shields.io/badge/C/Arduino-7F3FBF?style=for-the-badge&logo=arduino&logoColor=white&labelColor=1E90FF) |
-| [Quiz-de-Personagens](https://github.com/Laraewellen/Quiz-de-Personagens) | Quiz estilo “quem é você?”, feito com HTML, CSS e JS. | ![HTML](https://img.shields.io/badge/HTML-7F3FBF?style=for-the-badge&logo=html5&logoColor=white&labelColor=1E90FF) ![CSS](https://img.shields.io/badge/CSS-7F3FBF?style=for-the-badge&logo=css3&logoColor=white&labelColor=1E90FF) ![JavaScript](https://img.shields.io/badge/JavaScript-7F3FBF?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1E90FF) |
-| [Hamburgueriaz.app](https://github.com/Laraewellen/Hamburgueriaz.app) | Sistema da hamburgueria, focado em pedidos e experiência do cliente. | ![HTML](https://img.shields.io/badge/Front-7F3FBF?style=for-the-badge&logo=html5&logoColor=white&labelColor=1E90FF) |
-| [DefesaCivil](https://github.com/Laraewellen/DefesaCivil) | Sistema para gestão de vítimas e emergências (inundação, vendaval, etc.). | ![Java](https://img.shields.io/badge/Java-7F3FBF?style=for-the-badge&logo=java&logoColor=white&labelColor=1E90FF) ![MySQL](https://img.shields.io/badge/MySQL-7F3FBF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1E90FF) |
+<table>
+  <tr>
+    <td width="450">
+      <h3 align="center">🔐 SOS Mulher Segura</h3>
+      <p align="center">Plataforma web para segurança de mulheres, com cadastro de vítimas, denúncias e alertas.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-7F3FBF?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-7F3FBF?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML-7F3FBF?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-7F3FBF?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JS-7F3FBF?style=flat-square&logo=javascript&logoColor=white" />
+      </div>
+      <p align="center"><a href="https://github.com/Laraewellen/SOS_Mulher_Segura">🔗 Ver repositório</a></p>
+    </td>
+    <td width="450">
+      <h3 align="center">🛠️ Fixsi</h3>
+      <p align="center">Plataforma que conecta prestadores de serviço e aluguel de ferramentas.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-7F3FBF?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-7F3FBF?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML-7F3FBF?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-7F3FBF?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JS-7F3FBF?style=flat-square&logo=javascript&logoColor=white" />
+      </div>
+      <p align="center"><a href="https://github.com/Laraewellen/Fixsi">🔗 Ver repositório</a></p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="450">
+      <h3 align="center">🤖 Cadeado Eletrônico</h3>
+      <p align="center">Cofre eletrônico com RFID, solenoide e Arduino.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Arduino-7F3FBF?style=flat-square&logo=arduino&logoColor=white" />
+        <img src="https://img.shields.io/badge/C-7F3FBF?style=flat-square&logo=c&logoColor=white" />
+      </div>
+      <p align="center"><a href="https://github.com/Laraewellen/cadeado-eletronico">🔗 Ver repositório</a></p>
+    </td>
+    <td width="450">
+      <h3 align="center">🎮 Quiz de Personagens</h3>
+      <p align="center">Quiz estilo “quem é você?” com HTML, CSS e JS.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/HTML-7F3FBF?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-7F3FBF?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-7F3FBF?style=flat-square&logo=javascript&logoColor=white" />
+      </div>
+      <p align="center"><a href="https://github.com/Laraewellen/Quiz-de-Personagens">🔗 Ver repositório</a></p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="450">
+      <h3 align="center">🍔 Hamburgueriaz.app</h3>
+      <p align="center">Sistema para gestão de pedidos da hamburgueria.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Frontend-7F3FBF?style=flat-square&logo=html5&logoColor=white" />
+      </div>
+      <p align="center"><a href="https://github.com/Laraewellen/Hamburgueriaz.app">🔗 Ver repositório</a></p>
+    </td>
+    <td width="450">
+      <h3 align="center">🚨 Defesa Civil</h3>
+      <p align="center">Sistema para gestão de vítimas e emergências.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Java-7F3FBF?style=flat-square&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-7F3FBF?style=flat-square&logo=mysql&logoColor=white" />
+      </div>
+      <p align="center"><a href="https://github.com/Laraewellen/DefesaCivil">🔗 Ver repositório</a></p>
+    </td>
+  </tr>
+</table>
 
 </div>
-
-<br>
-
 <p align="center">
   <a href="https://github.com/Laraewellen?tab=repositories" target="_blank">
     <img alt="Todos os repositórios" title="Todos os repositórios" src="https://img.shields.io/badge/Todos%20os%20Repositórios-7F3FBF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 ---
 
 <div align="center">
