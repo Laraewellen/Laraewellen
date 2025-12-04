@@ -17,7 +17,7 @@
 
 <img src="https://i.imgur.com/4qu9td7.png" alt="girlcode" width="200" align="right" style="margin-left: 20px; border-radius: 14px; box-shadow: 0px 0px 12px #7F3FBF55;" />
 
-Tenho 20 anos e sempre fui curiosa sobre como as coisas funcionam. Desde pequena eu assistia Wall-E e Eva imaginando como seria criar algo daquele jeito. No ensino médio fiz técnico em Eletrônica, entrei para a robótica, programei com Arduino e descobri o quanto eu gostava de transformar ideias em algo real.
+Sempre fui curiosa sobre como as coisas funcionam. Desde cedo imaginava como seria criar algo tecnológico do zero. No ensino médio fiz técnico em Eletrônica, entrei para a robótica, programei com Arduino e descobri o quanto eu gostava de transformar ideias em algo real.
 
 Hoje estou no 6º semestre de Ciência da Computação e participei de projetos como SOS Mulher Segura, Defesa Civil e Fixsi, que me mostraram o impacto real da tecnologia na vida das pessoas.
 
