@@ -19,7 +19,7 @@
 
 Sempre fui curiosa sobre como as coisas funcionam. Desde cedo imaginava como seria criar algo tecnológico do zero. No ensino médio fiz técnico em Eletrônica, entrei para a robótica, programei com Arduino e descobri o quanto eu gostava de transformar ideias em algo real.
 
-Hoje estou no 6º semestre de Ciência da Computação e participei de projetos como SOS Mulher Segura, Defesa Civil e Fixsi, que me mostraram o impacto real da tecnologia na vida das pessoas.
+Hoje estou no 7º semestre de Ciência da Computação e participei de projetos como SOS Mulher Segura, Defesa Civil e Fixsi, que me mostraram o impacto real da tecnologia na vida das pessoas.
 
 O que me motiva é criar coisas que façam sentido. Gosto de resolver problemas, melhorar o que já existe e deixar tudo mais simples, útil e bonito. Acredito que tecnologia também é uma forma de cuidado e quero continuar construindo projetos que transformem, um passo ou um commit de cada vez. 💜
 
