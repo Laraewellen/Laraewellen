@@ -31,7 +31,7 @@ O que me motiva é criar coisas que façam sentido. Gosto de resolver problemas,
 [![Gmail](https://img.shields.io/badge/E--mail-7F3FBF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E90FF)](mailto:contato@laraewellen@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7F3FBF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=1E90FF)](https://www.linkedin.com/in/lara-ewellen-bbaa81285)
 [![GitHub](https://img.shields.io/badge/Meu%20GitHub-7F3FBF?style=for-the-badge&logo=github&logoColor=white&labelColor=1E90FF)](https://github.com/Laraewellen)
-[![Notion](https://img.shields.io/badge/Portifólio%20Notion-7F3FBF?style=for-the-badge&logo=notion&logoColor=white&labelColor=1E90FF)](https://foul-volcano-188.notion.site/Lara-Ewellen-e96ffac4a59a83b585be0152266bbc83)
+[![Notion](https://img.shields.io/badge/Portifólio%20Notion-7F3FBF?style=for-the-badge&logo=notion&logoColor=white&labelColor=1E90FF)](https://laraewellen.notion.site/e96ffac4a59a83b585be0152266bbc83?pvs=143)
 
 </div>
 
