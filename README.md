@@ -55,6 +55,10 @@ O que me motiva é criar coisas que façam sentido. Gosto de resolver problemas,
 
 </div>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laraewellen&layout=compact&langs_count=8&bg_color=0d1117&title_color=7F3FBF&text_color=1E90FF&icon_color=7F3FBF&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laraewellen&show_icons=true&count_private=true&bg_color=0d1117&title_color=7F3FBF&text_color=1E90FF&icon_color=7F3FBF&hide_border=true"/>
+</div>
 
 ---
 
