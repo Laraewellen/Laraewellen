@@ -81,15 +81,14 @@ Hoje estou no **7º semestre de Ciência da Computação**, estagiando em **UI/U
 
  <img src="https://img.shields.io/badge/-Estat%C3%ADsticas-7F3FBF?style=for-the-badge&logo=github&logoColor=white" />
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laraewellen&show_icons=true&count_private=true&bg_color=0d1117&title_color=7F3FBF&text_color=1E90FF&icon_color=7F3FBF&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laraewellen&layout=compact&langs_count=8&bg_color=0d1117&title_color=7F3FBF&text_color=1E90FF&icon_color=7F3FBF&hide_border=true"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Laraewellen&show_icons=true&count_private=true&bg_color=0d1117&title_color=7F3FBF&text_color=1E90FF&icon_color=7F3FBF&hide_border=true" />
+ 
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Laraewellen&layout=compact&langs_count=8&bg_color=0d1117&title_color=7F3FBF&text_color=1E90FF&icon_color=7F3FBF&hide_border=true" />
 
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laraewellen&background=0d1117&stroke=7F3FBF&ring=7F3FBF&fire=1E90FF&currStreakNum=1E90FF&sideNums=1E90FF&currStreakLabel=7F3FBF&sideLabels=7F3FBF&dates=FFFFFF&hide_border=true" />
 </div>
-
+</p>
 ---
 
  <img src="https://img.shields.io/badge/-Projetos%20em%20Destaque-7F3FBF?style=for-the-badge&logo=github&logoColor=white" />
