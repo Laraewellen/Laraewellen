@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+sou+a+Lara+%F0%9F%92%9C;Cientista+da+Computa%C3%A7%C3%A3o+em+forma%C3%A7%C3%A3o;Apaixonada+por+tecnologia+com+prop%C3%B3sito;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+sou+a+Lara+%F0%9F%92%9C;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
 </div>
 
 <p align="center"><i>Rebooting purpose… Please wait ✨🌌</i></p>
