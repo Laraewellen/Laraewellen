@@ -43,8 +43,7 @@ Hoje estou no **7º semestre de Ciência da Computação**, estagiando em **UI/U
 [![Gmail](https://img.shields.io/badge/laraewellen%40gmail.com-7F3FBF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E90FF)](mailto:laraewellen@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7F3FBF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E90FF)](https://www.linkedin.com/in/lara-ewellen-bbaa81285)
 [![GitHub](https://img.shields.io/badge/GitHub-7F3FBF?style=for-the-badge&logo=github&logoColor=white&labelColor=1E90FF)](https://github.com/Laraewellen)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio%20Notion-7F3FBF?style=for-the-badge&logo=notion&logoColor=white&labelColor=1E90FF)](https://laraewellen.notion.site/e96ffac4a59a83b585be0152266bbc83?pvs=143)
-
+[![UI/UX Portfolio](https://img.shields.io/badge/UI%2FUX%20Portfolio-7F3FBF?style=for-the-badge&logo=figma&logoColor=white&labelColor=1E90FF)](https://portifoliouxui.vercel.app/)
 </div>
 
 ---
