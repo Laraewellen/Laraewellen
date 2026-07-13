@@ -24,7 +24,7 @@
 
 Sempre fui curiosa sobre como as coisas funcionam. No ensino médio fiz **técnico em Eletrônica**, entrei para a **robótica**, programei com **Arduino** e descobri o quanto gostava de transformar ideias em algo real.
 
-Hoje estou no **7º semestre de Ciência da Computação**, estagiando em **UI/UX no SENAI**, e já participei de projetos como **SOS Mulher Segura**, **Defesa Civil** e **Fixsi**. Acredito que tecnologia também é uma forma de cuidado, e quero continuar construindo coisas que transformem, um commit de cada vez. 💜
+Hoje estou no **8º semestre de Ciência da Computação**, estagiando em **UI/UX no SENAI**, e já participei de projetos como **SOS Mulher Segura**, **Defesa Civil** e **Fixsi**. Acredito que tecnologia também é uma forma de cuidado, e quero continuar construindo coisas que transformem, um commit de cada vez. 💜
 
 > ☆ **Atualmente:** Estágio em UI/UX no SENAI
 
