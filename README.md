@@ -14,6 +14,10 @@
 
 <p align="center"><i>Rebooting purpose… Please wait ✨🌌</i></p>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=1E90FF&center=true&vCenter=true&width=700&lines=UX%2FUI+Designer;UX+Researcher;Front-end+Developer" alt="Typing SVG" />
+</div>
+
 <br>
 
 ---
@@ -24,11 +28,13 @@
 
 Sempre fui curiosa sobre como as coisas funcionam. No ensino médio fiz **técnico em Eletrônica**, entrei para a **robótica**, programei com **Arduino** e descobri o quanto gostava de transformar ideias em algo real.
 
-Hoje estou no **8º semestre de Ciência da Computação**, estagiando em **UI/UX no SENAI**, e já participei de projetos como **SOS Mulher Segura**, **Defesa Civil** e **Fixsi**. Acredito que tecnologia também é uma forma de cuidado, e quero continuar construindo coisas que transformem, um commit de cada vez. 💜
+Hoje estou no 8º semestre de Ciência da Computação e atuo como estagiária de UX/UI e UX Research no SENAI. Gosto de entender como as pessoas interagem com a tecnologia, conduzir pesquisas, validar ideias e transformar descobertas em interfaces intuitivas e acessíveis. Também desenvolvo soluções front-end para dar vida aos projetos que idealizo. Já participei de iniciativas como SOS Mulher Segura, Fixsi e Defesa Civil, sempre buscando criar experiências digitais mais humanas. 💜
 
-> ☆ **Atualmente:** Estágio em UI/UX no SENAI
+> Acredito que boas interfaces começam muito antes do Figma: começam entendendo as pessoas.
 
-> ☆ **Formação:** Ciência da Computação (7º semestre)
+> ☆ **Atualmente:** Estágio em UX/UI SENAI PROJETO ALIMU
+
+> ☆ **Formação:** Ciência da Computação (8º semestre)
 
 > ☆ **Localização:** Brasil
 
@@ -40,7 +46,7 @@ Hoje estou no **8º semestre de Ciência da Computação**, estagiando em **UI/U
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/laraewellen%40gmail.com-7F3FBF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E90FF)](mailto:laraewellen@gmail.com)
+[![Gmail](https://img.shields.io/badge/lara.uiux%40gmail.com-7F3FBF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E90FF)](mailto:lara.uiux@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7F3FBF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E90FF)](https://www.linkedin.com/in/lara-ewellen-bbaa81285)
 [![GitHub](https://img.shields.io/badge/GitHub-7F3FBF?style=for-the-badge&logo=github&logoColor=white&labelColor=1E90FF)](https://github.com/Laraewellen)
 [![UI/UX Portfolio](https://img.shields.io/badge/UI%2FUX%20Portfolio-7F3FBF?style=for-the-badge&logo=figma&logoColor=white&labelColor=1E90FF)](https://portifoliouxui.vercel.app/)
@@ -49,6 +55,22 @@ Hoje estou no **8º semestre de Ciência da Computação**, estagiando em **UI/U
 ---
 
  <img src="https://img.shields.io/badge/-Skills-7F3FBF?style=for-the-badge&logo=awesomelists&logoColor=white" />
+
+**🔍 UX Research & Design**
+
+<div align="center">
+
+![UX Research](https://img.shields.io/badge/UX%20Research-7F3FBF?style=for-the-badge&logo=readme&logoColor=white&labelColor=1E90FF)
+![Entrevistas](https://img.shields.io/badge/Entrevistas%20com%20Usu%C3%A1rios-7F3FBF?style=for-the-badge&logo=googlemeet&logoColor=white&labelColor=1E90FF)
+![Testes de Usabilidade](https://img.shields.io/badge/Testes%20de%20Usabilidade-7F3FBF?style=for-the-badge&logo=testinglibrary&logoColor=white&labelColor=1E90FF)
+![Arquitetura da Informação](https://img.shields.io/badge/Arquitetura%20da%20Informa%C3%A7%C3%A3o-7F3FBF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1E90FF)
+![Personas](https://img.shields.io/badge/Personas-7F3FBF?style=for-the-badge&logo=googleforms&logoColor=white&labelColor=1E90FF)
+![User Flow](https://img.shields.io/badge/User%20Flow-7F3FBF?style=for-the-badge&logo=flowise&logoColor=white&labelColor=1E90FF)
+![Wireframes](https://img.shields.io/badge/Wireframes-7F3FBF?style=for-the-badge&logo=sketch&logoColor=white&labelColor=1E90FF)
+![Prototipação](https://img.shields.io/badge/Prototipa%C3%A7%C3%A3o-7F3FBF?style=for-the-badge&logo=invision&logoColor=white&labelColor=1E90FF)
+![Figma](https://img.shields.io/badge/Figma-7F3FBF?style=for-the-badge&logo=figma&logoColor=white&labelColor=1E90FF)
+
+</div>
 
 **🖥️ Linguagens & Tecnologias**
 
@@ -62,17 +84,16 @@ Hoje estou no **8º semestre de Ciência da Computação**, estagiando em **UI/U
 ![C](https://img.shields.io/badge/C-7F3FBF?style=for-the-badge&logo=c&logoColor=white&labelColor=1E90FF)
 ![Django](https://img.shields.io/badge/Django-7F3FBF?style=for-the-badge&logo=django&logoColor=white&labelColor=1E90FF)
 ![MySQL](https://img.shields.io/badge/MySQL-7F3FBF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1E90FF)
+![Arduino](https://img.shields.io/badge/Arduino-7F3FBF?style=for-the-badge&logo=arduino&logoColor=white&labelColor=1E90FF)
+
 
 </div>
 
-**🎨 Design & Metodologias**
+**🎨 Metodologias**
 
 <div align="center">
 
-![Figma](https://img.shields.io/badge/Figma-7F3FBF?style=for-the-badge&logo=figma&logoColor=white&labelColor=1E90FF)
-![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-7F3FBF?style=for-the-badge&logo=styledcomponents&logoColor=white&labelColor=1E90FF)
 ![Scrum](https://img.shields.io/badge/Scrum-7F3FBF?style=for-the-badge&logo=scrumalliance&logoColor=white&labelColor=1E90FF)
-![Arduino](https://img.shields.io/badge/Arduino-7F3FBF?style=for-the-badge&logo=arduino&logoColor=white&labelColor=1E90FF)
 
 </div>
 
@@ -99,7 +120,7 @@ Hoje estou no **8º semestre de Ciência da Computação**, estagiando em **UI/U
   <tr>
     <td width="450" align="center" style="padding: 18px;">
       <h3>🔐 SOS Mulher Segura</h3>
-      <p>Sistema web para apoiar mulheres em situação de risco, com alertas, denúncias anônimas e proteção integrada.</p>
+      <p>Projeto de UX/UI e desenvolvimento criado para apoiar mulheres em situação de risco, desde a pesquisa com usuárias até a implementação da plataforma, com alertas e denúncias anônimas.</p>
       <div>
         <img src="https://img.shields.io/badge/Python-7F3FBF?style=flat-square&logo=python&logoColor=white&labelColor=1E90FF" />
         <img src="https://img.shields.io/badge/Django-7F3FBF?style=flat-square&logo=django&logoColor=white&labelColor=1E90FF" />
@@ -112,7 +133,7 @@ Hoje estou no **8º semestre de Ciência da Computação**, estagiando em **UI/U
     </td>
     <td width="450" align="center" style="padding: 18px;">
       <h3>🛠️ Fixsi</h3>
-      <p>Plataforma que conecta prestadores de serviços ao aluguel de ferramentas, marketplace de economia colaborativa.</p>
+      <p>Pesquisa com usuários, prototipação no Figma e desenvolvimento de uma plataforma de economia colaborativa que conecta prestadores de serviços ao aluguel de ferramentas.</p>
       <div>
         <img src="https://img.shields.io/badge/Python-7F3FBF?style=flat-square&logo=python&logoColor=white&labelColor=1E90FF" />
         <img src="https://img.shields.io/badge/Django-7F3FBF?style=flat-square&logo=django&logoColor=white&labelColor=1E90FF" />
@@ -128,7 +149,7 @@ Hoje estou no **8º semestre de Ciência da Computação**, estagiando em **UI/U
   <tr>
     <td width="450" align="center" style="padding: 18px;">
       <h3>🤖 Cadeado Eletrônico</h3>
-      <p>Cofre eletrônico com leitor RFID, solenoide e Arduino, projeto de eletrônica embarcada.</p>
+      <p>Projeto de eletrônica embarcada: cofre eletrônico com leitor RFID, solenoide e Arduino.</p>
       <div>
         <img src="https://img.shields.io/badge/Arduino-7F3FBF?style=flat-square&logo=arduino&logoColor=white&labelColor=1E90FF" />
         <img src="https://img.shields.io/badge/C-7F3FBF?style=flat-square&logo=c&logoColor=white&labelColor=1E90FF" />
@@ -138,7 +159,7 @@ Hoje estou no **8º semestre de Ciência da Computação**, estagiando em **UI/U
     </td>
     <td width="450" align="center" style="padding: 18px;">
       <h3>🎮 Quiz de Personagens</h3>
-      <p>Quiz "Quem é você?" com HTML, CSS e JavaScript, projeto de front-end interativo e divertido.</p>
+      <p>Interface interativa e divertida para um quiz "Quem é você?", explorando front-end com HTML, CSS e JavaScript.</p>
       <div>
         <img src="https://img.shields.io/badge/HTML-7F3FBF?style=flat-square&logo=html5&logoColor=white&labelColor=1E90FF" />
         <img src="https://img.shields.io/badge/CSS-7F3FBF?style=flat-square&logo=css3&logoColor=white&labelColor=1E90FF" />
@@ -152,7 +173,7 @@ Hoje estou no **8º semestre de Ciência da Computação**, estagiando em **UI/U
   <tr>
     <td width="450" align="center" style="padding: 18px;">
       <h3>🍔 Hamburgueriaz.app</h3>
-      <p>Sistema para gestão de pedidos de hamburgueria com interface amigável para atendimento e controle.</p>
+      <p>Design de interface amigável e sistema para gestão de pedidos de hamburgueria, pensado para agilizar atendimento e controle.</p>
       <div>
         <img src="https://img.shields.io/badge/HTML-7F3FBF?style=flat-square&logo=html5&logoColor=white&labelColor=1E90FF" />
         <img src="https://img.shields.io/badge/CSS-7F3FBF?style=flat-square&logo=css3&logoColor=white&labelColor=1E90FF" />
@@ -163,7 +184,7 @@ Hoje estou no **8º semestre de Ciência da Computação**, estagiando em **UI/U
     </td>
     <td width="450" align="center" style="padding: 18px;">
       <h3>🚨 Defesa Civil</h3>
-      <p>Sistema para gestão de vítimas e emergências com coordenação de recursos em situações de desastre.</p>
+      <p>Solução pensada para coordenar recursos e gerenciar vítimas em situações de desastre, com foco em clareza e agilidade de uso.</p>
       <div>
         <img src="https://img.shields.io/badge/Java-7F3FBF?style=flat-square&logo=openjdk&logoColor=white&labelColor=1E90FF" />
         <img src="https://img.shields.io/badge/MySQL-7F3FBF?style=flat-square&logo=mysql&logoColor=white&labelColor=1E90FF" />
