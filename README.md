@@ -26,13 +26,13 @@
 
 <img src="https://i.imgur.com/4qu9td7.png" alt="girlcode" width="200" align="right" style="margin-left: 20px; border-radius: 14px;" />
 
-Sempre fui curiosa sobre como as coisas funcionam. No ensino médio fiz **técnico em Eletrônica**, entrei para a **robótica**, programei com **Arduino** e descobri o quanto gostava de transformar ideias em algo real.
+Sempre fui curiosa sobre como as coisas funcionam. Fiz **técnico em Eletrônica**, entrei para a **robótica**, programei com **Arduino** e descobri o quanto gostava de transformar ideias em algo real.
 
-Hoje estou no 8º semestre de Ciência da Computação e atuo como estagiária de UX/UI e UX Research no SENAI. Gosto de entender como as pessoas interagem com a tecnologia, conduzir pesquisas, validar ideias e transformar descobertas em interfaces intuitivas e acessíveis. Também desenvolvo soluções front-end para dar vida aos projetos que idealizo. Já participei de iniciativas como SOS Mulher Segura, Fixsi e Defesa Civil, sempre buscando criar experiências digitais mais humanas. 💜
+Hoje estou no 8º semestre de Ciência da Computação e atuo como estagiária de UX/UI e UX Research. Gosto de entender como as pessoas interagem com a tecnologia, conduzir pesquisas, validar ideias e transformar descobertas em interfaces intuitivas e acessíveis. Também desenvolvo soluções front-end para dar vida aos projetos que idealizo. Já participei de iniciativas como SOS Mulher Segura, Fixsi e Defesa Civil, sempre buscando criar experiências digitais mais humanas. 💜
 
 > Acredito que boas interfaces começam muito antes do Figma: começam entendendo as pessoas.
 
-> ☆ **Atualmente:** Estágio em UX/UI SENAI PROJETO ALIMU
+> ☆ **Atualmente:** Estágio em UX/UI
 
 > ☆ **Formação:** Ciência da Computação (8º semestre)
 
