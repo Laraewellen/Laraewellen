@@ -47,7 +47,6 @@ Hoje estou no 8º semestre de Ciência da Computação e atuo como estagiária d
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/lara.uiux%40gmail.com-7F3FBF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E90FF)](mailto:lara.uiux@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7F3FBF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E90FF)](https://www.linkedin.com/in/laracarvalhoew)
 [![GitHub](https://img.shields.io/badge/GitHub-7F3FBF?style=for-the-badge&logo=github&logoColor=white&labelColor=1E90FF)](https://github.com/Laraewellen)
 </div>
 
