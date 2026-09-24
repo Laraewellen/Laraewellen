@@ -99,14 +99,23 @@ Hoje estou no 8º semestre de Ciência da Computação e atuo como estagiária d
 
  <img src="https://img.shields.io/badge/-Estat%C3%ADsticas-7F3FBF?style=for-the-badge&logo=github&logoColor=white" />
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Laraewellen&show_icons=true&count_private=true&bg_color=0d1117&title_color=7F3FBF&text_color=1E90FF&icon_color=7F3FBF&hide_border=true" />
- 
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Laraewellen&layout=compact&langs_count=8&bg_color=0d1117&title_color=7F3FBF&text_color=1E90FF&icon_color=7F3FBF&hide_border=true" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laraewellen&background=0d1117&stroke=7F3FBF&ring=7F3FBF&fire=1E90FF&currStreakNum=1E90FF&sideNums=1E90FF&currStreakLabel=7F3FBF&sideLabels=7F3FBF&dates=FFFFFF&hide_border=true" />
+<p align="center">
+  <img
+    width="390"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Laraewellen&theme=github_dark&title_color=7F3FBF&text_color=1E90FF&bg_color=0d1117&border_color=0d1117&icon_color=7F3FBF"
+    alt="Estatísticas"
+  />
+ <img
+    width="390"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laraewellen&theme=github_dark&title_color=7F3FBF&text_color=1E90FF&bg_color=0d1117&border_color=0d1117&icon_color=7F3FBF&chart_color=7F3FBF"
+    alt="Linguagens"
+  />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laraewellen&background=0d1117&stroke=7F3FBF&ring=7F3FBF&fire=1E90FF&currStreakNum=1E90FF&sideNums=1E90FF&currStreakLabel=7F3FBF&sideLabels=7F3FBF&dates=FFFFFF&hide_border=true" />
 </div>
 </p>
+
+
 
 ---
 
