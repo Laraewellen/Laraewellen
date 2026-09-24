@@ -22,39 +22,39 @@
 
 ---
 
- <img src="https://img.shields.io/badge/-Sobre%20mim-7F3FBF?style=for-the-badge&logo=sparkles&logoColor=white" />
+<img src="https://img.shields.io/badge/-Sobre%20mim-7F3FBF?style=for-the-badge&logo=sparkles&logoColor=white" />
 
 <img src="https://i.imgur.com/4qu9td7.png" alt="girlcode" width="200" align="right" style="margin-left: 20px; border-radius: 14px;" />
 
 Sempre fui curiosa sobre como as coisas funcionam. Fiz **técnico em Eletrônica**, entrei para a **robótica**, programei com **Arduino** e descobri o quanto gostava de transformar ideias em algo real.
 
-Hoje estou no 8º semestre de Ciência da Computação e atuo como estagiária de UX/UI e UX Research. Gosto de entender como as pessoas interagem com a tecnologia, conduzir pesquisas, validar ideias e transformar descobertas em interfaces intuitivas e acessíveis. Também desenvolvo soluções front-end para dar vida aos projetos que idealizo. Já participei de iniciativas como SOS Mulher Segura, Fixsi e Defesa Civil, sempre buscando criar experiências digitais mais humanas. 💜
+Hoje estou no **8º semestre de Ciência da Computação** e atuo como estagiária de **UX/UI, UX Research e desenvolvimento front-end**. Gosto de entender como as pessoas interagem com a tecnologia, conduzir pesquisas, validar ideias e transformar descobertas em interfaces intuitivas e acessíveis. Também desenvolvo soluções front-end para dar vida aos projetos que idealizo.
+
+Já participei de iniciativas como **SOS Mulher Segura, Fixsi e Defesa Civil**, sempre buscando criar experiências digitais mais humanas. 💜
 
 > Acredito que boas interfaces começam muito antes do Figma: começam entendendo as pessoas.
 
-> ☆ **Atualmente:** Estágio em UX/UI
-
-> ☆ **Formação:** Ciência da Computação (8º semestre)
-
+> ☆ **Atualmente:** Estágio em UX/UI  
+> ☆ **Formação:** Ciência da Computação (8º semestre)  
 > ☆ **Localização:** Brasil
 
 <br>
 
 ---
 
- <img src="https://img.shields.io/badge/-Fale%20comigo-7F3FBF?style=for-the-badge&logo=wechat&logoColor=white" />
+<img src="https://img.shields.io/badge/-Experi%C3%AAncia-7F3FBF?style=for-the-badge&logo=briefcase&logoColor=white" />
 
-<div align="center">
+### 💜 Estagiária de UX/UI
 
-[![Gmail](https://img.shields.io/badge/lara.uiux%40gmail.com-7F3FBF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E90FF)](mailto:lara.uiux@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-7F3FBF?style=for-the-badge&logo=github&logoColor=white&labelColor=1E90FF)](https://github.com/Laraewellen)
-</div>
+**SENAI/DF · 2026 – atual**
+
+Atuação com **pesquisa e entrevistas com usuários, testes de usabilidade, prototipação no Figma, melhorias de UI, QA e ajustes front-end**, contribuindo para a evolução das experiências digitais do projeto.
 
 ---
 
- <img src="https://img.shields.io/badge/-Skills-7F3FBF?style=for-the-badge&logo=awesomelists&logoColor=white" />
+<img src="https://img.shields.io/badge/-Skills-7F3FBF?style=for-the-badge&logo=awesomelists&logoColor=white" />
 
-**🔍 UX Research & Design**
+### 🔍 UX Research & Design
 
 <div align="center">
 
@@ -70,7 +70,7 @@ Hoje estou no 8º semestre de Ciência da Computação e atuo como estagiária d
 
 </div>
 
-**🖥️ Linguagens & Tecnologias**
+### 🖥️ Linguagens & Tecnologias
 
 <div align="center">
 
@@ -83,11 +83,12 @@ Hoje estou no 8º semestre de Ciência da Computação e atuo como estagiária d
 ![Django](https://img.shields.io/badge/Django-7F3FBF?style=for-the-badge&logo=django&logoColor=white&labelColor=1E90FF)
 ![MySQL](https://img.shields.io/badge/MySQL-7F3FBF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1E90FF)
 ![Arduino](https://img.shields.io/badge/Arduino-7F3FBF?style=for-the-badge&logo=arduino&logoColor=white&labelColor=1E90FF)
-
+![Git](https://img.shields.io/badge/Git-7F3FBF?style=for-the-badge&logo=git&logoColor=white&labelColor=1E90FF)
+![GitHub](https://img.shields.io/badge/GitHub-7F3FBF?style=for-the-badge&logo=github&logoColor=white&labelColor=1E90FF)
 
 </div>
 
-**🎨 Metodologias**
+### 🎨 Metodologias
 
 <div align="center">
 
@@ -97,34 +98,31 @@ Hoje estou no 8º semestre de Ciência da Computação e atuo como estagiária d
 
 ---
 
- <img src="https://img.shields.io/badge/-Estat%C3%ADsticas-7F3FBF?style=for-the-badge&logo=github&logoColor=white" />
-
+<img src="https://img.shields.io/badge/-Estat%C3%ADsticas-7F3FBF?style=for-the-badge&logo=github&logoColor=white" />
 
 <p align="center">
   <img
     width="390"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Laraewellen&theme=github_dark&title_color=7F3FBF&text_color=1E90FF&bg_color=0d1117&border_color=0d1117&icon_color=7F3FBF"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Laraewellen&theme=github_dark&title_color=7F3FBF&text_color=1E90FF&bg_color=0D1117&border_color=0D1117&icon_color=7F3FBF"
     alt="Estatísticas"
   />
- <img
+<img
     width="390"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laraewellen&theme=github_dark&title_color=7F3FBF&text_color=1E90FF&bg_color=0d1117&border_color=0d1117&icon_color=7F3FBF&chart_color=7F3FBF"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laraewellen&theme=github_dark&title_color=7F3FBF&text_color=1E90FF&bg_color=0D1117&border_color=0D1117&icon_color=7F3FBF&chart_color=7F3FBF"
     alt="Linguagens"
   />
+</p>
+
+<p align="center">
   <img
-    width="400"
+    width="800"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laraewellen&theme=github_dark&title_color=7F3FBF&text_color=1E90FF&bg_color=0D1117&border_color=0D1117&icon_color=7F3FBF"
     alt="Detalhes do perfil"
   />
 </p>
 
-</p>
-
-
-
 ---
-
- <img src="https://img.shields.io/badge/-Projetos%20em%20Destaque-7F3FBF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/-Projetos%20em%20Destaque-7F3FBF?style=for-the-badge&logo=github&logoColor=white" />
 
 <div align="center">
 
@@ -206,6 +204,18 @@ Hoje estou no 8º semestre de Ciência da Computação e atuo como estagiária d
     </td>
   </tr>
 </table>
+
+</div>
+
+---
+
+
+<img src="https://img.shields.io/badge/-Fale%20comigo-7F3FBF?style=for-the-badge&logo=wechat&logoColor=white" />
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/lara.uiux%40gmail.com-7F3FBF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E90FF)](mailto:lara.uiux@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-7F3FBF?style=for-the-badge&logo=github&logoColor=white&labelColor=1E90FF)](https://github.com/Laraewellen)
 
 </div>
 
