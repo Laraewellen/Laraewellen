@@ -103,12 +103,12 @@ Atuação com **pesquisa e entrevistas com usuários, testes de usabilidade, pro
 <p align="center">
   <img
     width="390"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Laraewellen&theme=github_dark&title_color=7F3FBF&text_color=1E90FF&bg_color=0D1117&border_color=0D1117&icon_color=7F3FBF"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Laraewellen&theme=github_dark&title_color=7F3FBF&text_color=1E90FF&bg_color=transparent&border_color=transparent&icon_color=7F3FBF"
     alt="Estatísticas"
   />
 <img
     width="390"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laraewellen&theme=github_dark&title_color=7F3FBF&text_color=1E90FF&bg_color=0D1117&border_color=0D1117&icon_color=7F3FBF&chart_color=7F3FBF"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laraewellen&theme=github_dark&title_color=7F3FBF&text_color=1E90FF&bg_color=transparent&border_color=transparent&icon_color=7F3FBF&chart_color=7F3FBF"
     alt="Linguagens"
   />
 </p>
@@ -116,7 +116,7 @@ Atuação com **pesquisa e entrevistas com usuários, testes de usabilidade, pro
 <p align="center">
   <img
     width="800"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laraewellen&theme=github_dark&title_color=7F3FBF&text_color=1E90FF&bg_color=0D1117&border_color=0D1117&icon_color=7F3FBF"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laraewellen&theme=github_dark&title_color=7F3FBF&text_color=1E90FF&bg_color=transparent&border_color=transparent&icon_color=7F3FBF"
     alt="Detalhes do perfil"
   />
 </p>
