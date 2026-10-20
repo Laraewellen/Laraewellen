@@ -98,15 +98,18 @@ Atuação com **pesquisa e entrevistas com usuários, testes de usabilidade, pro
 
 ---
 
+
+<!-- ESTATÍSTICAS -->
+
 <img src="https://img.shields.io/badge/-Estat%C3%ADsticas-7F3FBF?style=for-the-badge&logo=github&logoColor=white" />
 
 <p align="center">
   <img
     width="390"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Laraewellen&theme=github_dark&title_color=7F3FBF&text_color=1E90FF&bg_color=00000000&border_color=00000000&icon_color=7F3FBF"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Laraewellen&theme=github_dark&title_color=7F3FBF&text_color=1E90FF&bg_color=00000000&border_color=00000000&icon_color=7F3FBF&chart_color=7F3FBF"
     alt="Estatísticas do GitHub"
   />
-<img
+  <img
     width="390"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laraewellen&theme=github_dark&title_color=7F3FBF&text_color=1E90FF&bg_color=00000000&border_color=00000000&icon_color=7F3FBF&chart_color=7F3FBF"
     alt="Linguagens mais utilizadas"
@@ -116,10 +119,11 @@ Atuação com **pesquisa e entrevistas com usuários, testes de usabilidade, pro
 <p align="center">
   <img
     width="800"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laraewellen&theme=github_dark&title_color=7F3FBF&text_color=1E90FF&bg_color=00000000&border_color=00000000&icon_color=7F3FBF"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laraewellen&theme=github_dark&title_color=7F3FBF&text_color=1E90FF&bg_color=00000000&border_color=00000000&icon_color=7F3FBF&chart_color=7F3FBF"
     alt="Atividade do GitHub"
   />
 </p>
+
 
 ---
 <img src="https://img.shields.io/badge/-Projetos%20em%20Destaque-7F3FBF?style=for-the-badge&logo=github&logoColor=white" />
