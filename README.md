@@ -256,12 +256,6 @@
   />
 </p>
 
-<p align="center">
-  <sub>
-    Estatísticas atualizadas automaticamente a partir dos dados públicos do GitHub.
-    Pode haver atraso devido ao cache.
-  </sub>
-</p>
 
 <br>
 
