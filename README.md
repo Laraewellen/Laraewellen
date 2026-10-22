@@ -6,7 +6,7 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Laraewellen&color=76548F&style=flat-square&label=Visitas" alt="Visitas ao perfil" />
 </p>
-
+<div align="center">
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3200&pause=1200&color=9876B5&center=true&vCenter=true&width=720&height=60&lines=Ol%C3%A1%2C+sou+a+Lara+%F0%9F%92%9C;Bem-vindo(a)+ao+meu+perfil!"
   alt="Olá, sou a Lara"
