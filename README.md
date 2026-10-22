@@ -195,6 +195,7 @@
 
 
 
+
 <!-- ================================================= -->
 <!--                 04 | ESTATÍSTICAS                 -->
 <!-- ================================================= -->
@@ -208,12 +209,12 @@
 <p align="center">
   <img
     width="390"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Laraewellen&amp;theme=tokyonight&amp;bg_color=00000000"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Laraewellen&amp;theme=tokyonight&amp;bg_color=00000000&amp;title_color=76548F&amp;icon_color=76548F&amp;border_color=00000000"
     alt="Estatísticas do GitHub"
   />
   <img
     width="390"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laraewellen&amp;theme=tokyonight&amp;bg_color=00000000"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laraewellen&amp;theme=tokyonight&amp;bg_color=00000000&amp;title_color=76548F&amp;icon_color=76548F&amp;border_color=00000000"
     alt="Linguagens mais utilizadas"
   />
 </p>
@@ -221,14 +222,13 @@
 <p align="center">
   <img
     width="795"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laraewellen&amp;theme=tokyonight&amp;bg_color=00000000"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laraewellen&amp;theme=tokyonight&amp;bg_color=00000000&amp;title_color=76548F&amp;icon_color=76548F&amp;chart_color=76548F&amp;border_color=00000000"
     alt="Histórico de atividade do GitHub"
   />
 </p>
 
-
-
 <br>
+
 
 
 ---
