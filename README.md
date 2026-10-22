@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <img src="https://i.imgur.com/x5dw8nX.gif" width="80%" alt="Banner do perfil" />
+  <img src="https://i.imgur.com/x5dw8nX.gif" width="100%" height="200 alt="Banner do perfil" />
 </div>
 
 <br>
