@@ -1,122 +1,88 @@
 
-<!-- ================================================= -->
-<!--         LARA EWELLEN | CREATIVE LAVENDER          -->
-<!-- ================================================= -->
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Laraewellen&color=76548F&style=flat-square&label=Visitas" alt="Visitas ao perfil" />
-</p>
+<!-- ═══════════════════════════════════════════════ -->
+<!--       ✦ LARA EWELLEN | CREATIVE LAVENDER ✦       -->
+<!-- ═══════════════════════════════════════════════ -->
 
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=Laraewellen&color=76548F&style=flat-square&label=Visitas" alt="Visitas ao perfil" />
+
+<br>
+
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3200&pause=1200&color=9876B5&center=true&vCenter=true&width=720&height=60&lines=Ol%C3%A1%2C+sou+a+Lara+%F0%9F%92%9C;Bem-vindo%28a%29+ao+meu+perfil%21"
-  alt="Olá, sou a Lara"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3200&pause=1300&color=9876B5&center=true&vCenter=true&width=760&height=65&lines=Oii%2C+eu+sou+a+Lara!+%E2%9C%A8;Design%2C+c%C3%B3digo+e+um+toque+de+magia+%E2%99%A1"
+  alt="Oii, eu sou a Lara! Design, código e um toque de magia."
 />
 
+<h3>✦ UX/UI Designer · UX Researcher · Desenvolvedora Front-end ✦</h3>
+
 <p>
-  <strong>UX/UI Designer · UX Researcher · Desenvolvedora Front-end</strong>
+  <i>Transformando ideias em experiências digitais com criatividade,<br>
+  empatia e um pouquinho de magia. ✨</i>
 </p>
 
 <p>
   <i>Rebooting purpose… Please wait ✨🌌</i>
 </p>
 
-<p>
-  <a href="mailto:lara.uiux@gmail.com">
-    <img src="https://img.shields.io/badge/Email-A87896?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Laraewellen">
-    <img src="https://img.shields.io/badge/GitHub-76548F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<a href="mailto:lara.uiux@gmail.com">
+  <img src="https://img.shields.io/badge/Contato-A87896?style=for-the-badge&logo=gmail&logoColor=white" alt="Contato"/>
+</a>
+<a href="https://github.com/Laraewellen">
+  <img src="https://img.shields.io/badge/GitHub-76548F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-<p>✦ &nbsp; ✧ &nbsp; ✦ &nbsp; ♡ &nbsp; ✦ &nbsp; ✧ &nbsp; ✦</p>
+<br><br>
+
+✦ &nbsp; ✧ &nbsp; ♡ &nbsp; ✦ &nbsp; ✧ &nbsp; ♡ &nbsp; ✦
 
 </div>
 
 ---
 
-<!-- ================================================= -->
-<!--                  01 | SOBRE MIM                   -->
-<!-- ================================================= -->
+<!-- ═══════════════ SOBRE MIM ═══════════════ -->
 
 <p align="left">
-  <img src="https://img.shields.io/badge/01%20%2F%20SOBRE%20MIM-76548F?style=for-the-badge" alt="01 Sobre mim" />
+  <img src="https://img.shields.io/badge/01%20%2F%20SOBRE%20MIM-76548F?style=for-the-badge" alt="Sobre mim"/>
 </p>
 
 <div align="center">
 
-<img src="https://i.imgur.com/4qu9td7.png" width="175" alt="Ilustração de programação" />
+<img src="https://i.imgur.com/4qu9td7.png" width="170" alt="Ilustração de programação"/>
+
+<h3>Oii, que bom te ver por aqui! ♡</h3>
 
 <p>
-  Sempre fui curiosa sobre como as coisas funcionam. Fiz
-  <strong>técnico em Eletrônica</strong>, participei da
-  <strong>robótica</strong>, programei com <strong>Arduino</strong>
-  e descobri o quanto gosto de transformar ideias em algo real.
+  Sou estudante do <strong>8º semestre de Ciência da Computação</strong>
+  e atualmente atuo como <strong>estagiária de UX/UI no SENAI/DF</strong>.
 </p>
 
 <p>
-  Hoje estou no <strong>8º semestre de Ciência da Computação</strong>
-  e atuo como estagiária de
-  <strong>UX/UI, UX Research e desenvolvimento front-end</strong>.
-  Gosto de pesquisar, validar ideias e transformar descobertas
-  em interfaces intuitivas e acessíveis.
+  Minha jornada começou na Eletrônica, entre circuitos,
+  robótica e Arduino. Hoje, encontrei no design uma forma
+  de unir <strong>criatividade, tecnologia e pessoas</strong>.
 </p>
 
 <p>
-  Participei de iniciativas como
-  <strong>SOS Mulher Segura, Fixsi, Bússola e Defesa Civil</strong>,
-  buscando criar experiências digitais mais humanas. 💜
+  Gosto de pesquisar, entender problemas, explorar possibilidades
+  e transformar ideias em interfaces intuitivas e acessíveis.
 </p>
 
 <p>
-  <i>✦ Boas interfaces começam muito antes do Figma: começam entendendo as pessoas.</i>
+  <strong>Meu lugar favorito é onde design e tecnologia se encontram. ✨</strong>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Est%C3%A1gio-UX%2FUI-76548F?style=flat-square&labelColor=E9DDF5" alt="Estágio UX/UI" />
-  <img src="https://img.shields.io/badge/Forma%C3%A7%C3%A3o-Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-A87896?style=flat-square&labelColor=F3E6ED" alt="Formação" />
-  <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Brasil-76548F?style=flat-square&labelColor=E9DDF5" alt="Brasil" />
+  <img src="https://img.shields.io/badge/UX%20Research-76548F?style=flat-square" alt="UX Research"/>
+  <img src="https://img.shields.io/badge/UI%20Design-A87896?style=flat-square" alt="UI Design"/>
+  <img src="https://img.shields.io/badge/Front--end-76548F?style=flat-square" alt="Front-end"/>
+  <img src="https://img.shields.io/badge/Criatividade-A87896?style=flat-square" alt="Criatividade"/>
 </p>
-
-</div>
 
 <br>
 
----
-
-<!-- ================================================= -->
-<!--                 02 | EXPERIÊNCIA                 -->
-<!-- ================================================= -->
-
-<p align="left">
-  <img src="https://img.shields.io/badge/02%20%2F%20EXPERI%C3%8ANCIA-76548F?style=for-the-badge" alt="02 Experiência" />
-</p>
-
-<div align="center">
-
-<p>✦ &nbsp; ✧ &nbsp; ✦</p>
-
-<h3>Estagiária de UX/UI 💜</h3>
-
-<p>
-  <strong>SENAI/DF · 2026 – atual</strong>
-</p>
-
-<p>
-  Atuação com <strong>pesquisa e entrevistas com usuários,
-  testes de usabilidade, prototipação no Figma, melhorias de UI,
-  QA e ajustes front-end</strong>, contribuindo para a evolução
-  das experiências digitais do projeto.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Pesquisa%20com%20usu%C3%A1rios-76548F?style=flat-square" alt="Pesquisa" />
-  <img src="https://img.shields.io/badge/Prototipa%C3%A7%C3%A3o-A87896?style=flat-square" alt="Prototipação" />
-  <img src="https://img.shields.io/badge/Usabilidade-76548F?style=flat-square" alt="Usabilidade" />
-  <img src="https://img.shields.io/badge/Front--end-A87896?style=flat-square" alt="Front-end" />
-</p>
+<i>✧ Boas interfaces começam muito antes do Figma:<br>
+começam entendendo as pessoas. ✧</i>
 
 </div>
 
@@ -124,168 +90,74 @@
 
 ---
 
-<!-- ================================================= -->
-<!--                 03 | HABILIDADES                 -->
-<!-- ================================================= -->
+<!-- ═══════════════ PROJETOS ═══════════════ -->
 
 <p align="left">
-  <img src="https://img.shields.io/badge/03%20%2F%20HABILIDADES-76548F?style=for-the-badge" alt="03 Habilidades" />
-</p>
-
-<br>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/UX%20RESEARCH%20%26%20DESIGN-B6A0D2?style=flat-square" alt="UX Research e Design" />
+  <img src="https://img.shields.io/badge/02%20%2F%20PROJETOS%20EM%20DESTAQUE-76548F?style=for-the-badge" alt="Projetos em destaque"/>
 </p>
 
 <div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/UX%20Research-76548F?style=flat-square" alt="UX Research" />
-  <img src="https://img.shields.io/badge/Entrevistas%20com%20usu%C3%A1rios-A87896?style=flat-square" alt="Entrevistas com usuários" />
-  <img src="https://img.shields.io/badge/Testes%20de%20usabilidade-76548F?style=flat-square" alt="Testes de usabilidade" />
-  <img src="https://img.shields.io/badge/Arquitetura%20da%20informa%C3%A7%C3%A3o-A87896?style=flat-square" alt="Arquitetura da informação" />
-  <img src="https://img.shields.io/badge/Personas-76548F?style=flat-square" alt="Personas" />
-  <img src="https://img.shields.io/badge/User%20Flow-A87896?style=flat-square" alt="User Flow" />
-  <img src="https://img.shields.io/badge/Wireframes-76548F?style=flat-square" alt="Wireframes" />
-  <img src="https://img.shields.io/badge/Prototipa%C3%A7%C3%A3o-A87896?style=flat-square" alt="Prototipação" />
-  <img src="https://img.shields.io/badge/Figma-76548F?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-</p>
+<h3>✧ Feito com curiosidade, criatividade e muito café ♡</h3>
 
-</div>
+<i>Algumas ideias que saíram do papel e ganharam vida.</i>
 
-<br>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/LINGUAGENS%20%26%20TECNOLOGIAS-B6A0D2?style=flat-square" alt="Linguagens e Tecnologias" />
-</p>
-
-<div align="center">
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-76548F?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-76548F?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-76548F?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-76548F?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-76548F?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-76548F?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Django-76548F?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-76548F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/MySQL-76548F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Flyway-76548F?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" />
-  <img src="https://img.shields.io/badge/Arduino-76548F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Git-76548F?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-76548F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-</div>
-
-<br>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/METODOLOGIAS-B6A0D2?style=flat-square" alt="Metodologias" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Scrum-A87896?style=flat-square" alt="Scrum" />
-</p>
-
-<br>
-
----
-
-<!-- ================================================= -->
-<!--                 04 | ESTATÍSTICAS                 -->
-<!-- ================================================= -->
-
-<p align="left">
-  <img src="https://img.shields.io/badge/04%20%2F%20ESTAT%C3%8DSTICAS-76548F?style=for-the-badge" alt="04 Estatísticas" />
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    width="390"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Laraewellen&theme=tokyonight&bg_color=00000000&title_color=76548F&icon_color=76548F&border_color=00000000"
-    alt="Estatísticas do GitHub"
-  />
-  <img
-    width="390"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laraewellen&theme=tokyonight&bg_color=00000000&title_color=76548F&icon_color=76548F&border_color=00000000"
-    alt="Linguagens mais utilizadas"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="795"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laraewellen&theme=tokyonight&bg_color=00000000&title_color=76548F&icon_color=76548F&chart_color=76548F&border_color=00000000"
-    alt="Histórico de atividade do GitHub"
-  />
-</p>
-
-<br>
-
----
-
-<!-- ================================================= -->
-<!--             05 | PROJETOS EM DESTAQUE             -->
-<!-- ================================================= -->
-
-<p align="left">
-  <img src="https://img.shields.io/badge/05%20%2F%20PROJETOS%20EM%20DESTAQUE-76548F?style=for-the-badge" alt="05 Projetos em Destaque" />
-</p>
-
-<br>
-
-<div align="center">
-
-<p>
-  <i>Uma seleção de projetos que conectam pesquisa, design e tecnologia. ✦</i>
-</p>
+<br><br>
 
 <table>
-
 <tr>
 <td width="50%" align="center" valign="top">
 
-<h3>✦ SOS Mulher Segura</h3>
+<h3>✦ Fixsi</h3>
+
+<strong>UX Research · UX/UI Design</strong>
 
 <p>
-  Projeto de UX/UI e desenvolvimento criado para apoiar mulheres em situação de risco, desde a pesquisa com usuárias até a implementação da plataforma, com alertas e denúncias anônimas.
+  Plataforma que conecta pessoas a profissionais
+  e facilita o aluguel de ferramentas.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/UX%2FUI-76548F?style=flat-square" alt="UX/UI" />
-  <img src="https://img.shields.io/badge/Python-A87896?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-76548F?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JS-A87896?style=flat-square" alt="HTML CSS JavaScript" />
+  Pesquisa com <strong>62 participantes</strong>,
+  identificação de necessidades, prototipação
+  e construção de experiências baseadas em confiança.
 </p>
 
-<a href="https://github.com/Laraewellen/SOS_Mulher_Segura">
-  <img src="https://img.shields.io/badge/Explorar%20projeto-76548F?style=for-the-badge&logo=github&logoColor=white" alt="Explorar SOS Mulher Segura" />
-</a>
+<img src="https://img.shields.io/badge/UX%20Research-76548F?style=flat-square" alt="UX Research"/>
+<img src="https://img.shields.io/badge/Figma-A87896?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
 
-</td>
-
-<td width="50%" align="center" valign="top">
-
-<h3>✧ Fixsi</h3>
-
-<p>
-  Pesquisa com usuários, prototipação no Figma e desenvolvimento de uma plataforma de economia colaborativa que conecta prestadores de serviços ao aluguel de ferramentas.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/UX%20Research-76548F?style=flat-square" alt="UX Research" />
-  <img src="https://img.shields.io/badge/Figma-A87896?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Python-76548F?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-A87896?style=flat-square&logo=django&logoColor=white" alt="Django" />
-</p>
+<br><br>
 
 <a href="https://github.com/Laraewellen/Fixsi">
-  <img src="https://img.shields.io/badge/Explorar%20projeto-76548F?style=for-the-badge&logo=github&logoColor=white" alt="Explorar Fixsi" />
+  <img src="https://img.shields.io/badge/Explorar%20projeto-76548F?style=for-the-badge&logo=github&logoColor=white" alt="Explorar Fixsi"/>
+</a>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<h3>♡ SOS Mulher Segura</h3>
+
+<strong>UX/UI · Pesquisa · Desenvolvimento</strong>
+
+<p>
+  Solução digital criada para apoiar
+  mulheres em situação de violência.
+</p>
+
+<p>
+  Pesquisa, organização de fluxos e desenvolvimento
+  de funcionalidades com atenção à segurança,
+  acessibilidade e discrição.
+</p>
+
+<img src="https://img.shields.io/badge/UX%2FUI-A87896?style=flat-square" alt="UX/UI"/>
+<img src="https://img.shields.io/badge/Django-76548F?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+
+<br><br>
+
+<a href="https://github.com/Laraewellen/SOS_Mulher_Segura">
+  <img src="https://img.shields.io/badge/Explorar%20projeto-A87896?style=for-the-badge&logo=github&logoColor=white" alt="Explorar SOS Mulher Segura"/>
 </a>
 
 </td>
@@ -294,196 +166,72 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-<h3>✦ Cadeado Eletrônico</h3>
+<h3>✧ Bússola 🧭</h3>
+
+<strong>UX/UI · Prototipação · Desenvolvimento</strong>
 
 <p>
-  Projeto de eletrônica embarcada: cofre eletrônico com leitor RFID, trava solenoide e Arduino, desenvolvido para aplicar conceitos de automação.
+  Plataforma de apoio à tomada de decisões.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Arduino-76548F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/C-A87896?style=flat-square&logo=c&logoColor=white" alt="C" />
+  Ajuda pessoas a organizar ideias,
+  comparar alternativas e refletir sobre
+  suas escolhas por meio de técnicas estruturadas.
 </p>
 
-<a href="https://github.com/Laraewellen/cadeado-eletronico">
-  <img src="https://img.shields.io/badge/Explorar%20projeto-76548F?style=for-the-badge&logo=github&logoColor=white" alt="Explorar Cadeado Eletrônico" />
-</a>
+<img src="https://img.shields.io/badge/Figma-76548F?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Java-A87896?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-76548F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
 
-</td>
-
-<td width="50%" align="center" valign="top">
-
-<h3>✧ Quiz de Personagens</h3>
-
-<p>
-  Interface interativa e divertida para um quiz "Quem é você?", explorando desenvolvimento front-end com HTML, CSS e JavaScript.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-76548F?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-A87896?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-76548F?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-</p>
-
-<a href="https://github.com/Laraewellen/Quiz-de-Personagens">
-  <img src="https://img.shields.io/badge/Explorar%20projeto-76548F?style=for-the-badge&logo=github&logoColor=white" alt="Explorar Quiz de Personagens" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center" valign="top">
-
-<h3>✦ Hamburgueriaz.app</h3>
-
-<p>
-  Design de interface e sistema para gestão de pedidos de hamburgueria, com foco em agilidade no atendimento e controle.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-76548F?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-A87896?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-76548F?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-</p>
-
-<a href="https://github.com/Laraewellen/Hamburgueriaz.app">
-  <img src="https://img.shields.io/badge/Explorar%20projeto-76548F?style=for-the-badge&logo=github&logoColor=white" alt="Explorar Hamburgueriaz.app" />
-</a>
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-<h3>✧ Defesa Civil</h3>
-
-<p>
-  Solução pensada para coordenar recursos e gerenciar vítimas em situações de desastre, priorizando clareza e agilidade de uso.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Java-76548F?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/MySQL-A87896?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-<a href="https://github.com/Laraewellen/DefesaCivil">
-  <img src="https://img.shields.io/badge/Explorar%20projeto-76548F?style=for-the-badge&logo=github&logoColor=white" alt="Explorar Defesa Civil" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center" valign="top">
-
-<h3>✦ Bússola 🧭</h3>
-
-<p>
-  Plataforma de apoio à tomada de decisões, desenvolvida para ajudar pessoas a organizar ideias, comparar alternativas e refletir sobre suas escolhas por meio de técnicas estruturadas.
-</p>
-
-<p>
-  Projeto acadêmico que integra UX/UI Design, prototipação no Figma e desenvolvimento de uma aplicação com Java, Spring Boot e MySQL.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/UX%2FUI-76548F?style=flat-square" alt="UX/UI" />
-  <img src="https://img.shields.io/badge/Figma-A87896?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Java-76548F?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-A87896?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/MySQL-76548F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
+<br><br>
 
 <a href="https://github.com/Laraewellen/Bussola">
-  <img src="https://img.shields.io/badge/Explorar%20projeto-76548F?style=for-the-badge&logo=github&logoColor=white" alt="Explorar Bússola" />
+  <img src="https://img.shields.io/badge/Explorar%20projeto-76548F?style=for-the-badge&logo=github&logoColor=white" alt="Explorar Bússola"/>
 </a>
 
 </td>
 
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center" valign="top">
 
-<h3>✧ Novas ideias a caminho...</h3>
+<h3>✦ Defesa Civil</h3>
+
+<strong>Design de solução · Java · MySQL</strong>
 
 <p>
-  <i>Entre pesquisas, protótipos e linhas de código, novas experiências estão sendo construídas. ✨</i>
+  Sistema pensado para auxiliar
+  a organização de recursos e
+  o gerenciamento de vítimas
+  em situações de desastre.
 </p>
 
-<p>✦ &nbsp; ✧ &nbsp; ♡ &nbsp; ✧ &nbsp; ✦</p>
+<img src="https://img.shields.io/badge/Java-A87896?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/MySQL-76548F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+
+<br><br>
+
+<a href="https://github.com/Laraewellen/DefesaCivil">
+  <img src="https://img.shields.io/badge/Explorar%20projeto-A87896?style=for-the-badge&logo=github&logoColor=white" alt="Explorar Defesa Civil"/>
+</a>
 
 </td>
 </tr>
-
 </table>
 
-</div>
+<br>
+
+<details>
+<summary><strong>✧ Mais projetos e experimentos criativos ♡</strong></summary>
 
 <br>
 
----
+| Projeto | Descrição |
+|:---|:---|
+| [✦ Cadeado Eletrônico](https://github.com/Laraewellen/cadeado-eletronico) | Arduino, RFID e automação |
+| [♡ Quiz de Personagens](https://github.com/Laraewellen/Quiz-de-Personagens) | HTML, CSS e JavaScript |
+| [✧ Hamburgueriaz.app](https://github.com/Laraewellen/Hamburgueriaz.app) | Interface para gestão de pedidos |
 
-<!-- ================================================= -->
-<!--                  06 | FALE COMIGO                 -->
-<!-- ================================================= -->
-
-<p align="left">
-  <img src="https://img.shields.io/badge/06%20%2F%20FALE%20COMIGO-76548F?style=for-the-badge" alt="06 Fale comigo" />
-</p>
-
-<div align="center">
-
-<p>
-  <i>Tem alguma ideia, projeto ou oportunidade? Vamos conversar! ✨</i>
-</p>
-
-<p>
-  <a href="mailto:lara.uiux@gmail.com">
-    <img src="https://img.shields.io/badge/Email-A87896?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Laraewellen">
-    <img src="https://img.shields.io/badge/GitHub-76548F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<br>
-
-<!-- ================================================= -->
-<!--              07 | CONTRIBUIÇÕES                   -->
-<!-- ================================================= -->
-
-<p align="left">
-  <img src="https://img.shields.io/badge/07%20%2F%20MINHAS%20CONTRIBUI%C3%87%C3%95ES-76548F?style=for-the-badge" alt="07 Minhas contribuições" />
-</p>
-
-<div align="center">
-
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Laraewellen/Laraewellen/output/snake-plum-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Laraewellen/Laraewellen/output/snake-plum.svg"
-    />
-    <img
-      alt="Rose and Plum - Animação das contribuições"
-      src="https://raw.githubusercontent.com/Laraewellen/Laraewellen/output/snake-plum.svg"
-      width="100%"
-    />
-  </picture>
-</p>
-
-
-
-
-
-
-<p>
-  <i>✦ Cada contribuição representa um passo na construção de novas ideias. 💜</i>
-</p>
+</details>
 
 </div>
 
@@ -491,11 +239,203 @@
 
 ---
 
+<!-- ═══════════════ HABILIDADES ═══════════════ -->
 
-<p>✦ &nbsp; ✧ &nbsp; ✦ &nbsp; ♡ &nbsp; ✦ &nbsp; ✧ &nbsp; ✦</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/03%20%2F%20MINHA%20CAIXINHA%20DE%20FERRAMENTAS-76548F?style=for-the-badge" alt="Minha caixinha de ferramentas"/>
+</p>
+
+<div align="center">
+
+<h3>✧ Entre pesquisas, pixels e códigos ♡</h3>
+
+<i>As ferramentas que me ajudam a transformar ideias em experiências.</i>
+
+<br><br>
+
+<strong>♡ UX Research & Design</strong>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/UX%20Research-76548F?style=flat-square" alt="UX Research"/>
+<img src="https://img.shields.io/badge/Entrevistas-A87896?style=flat-square" alt="Entrevistas"/>
+<img src="https://img.shields.io/badge/Testes%20de%20usabilidade-76548F?style=flat-square" alt="Testes de usabilidade"/>
+<img src="https://img.shields.io/badge/Personas-A87896?style=flat-square" alt="Personas"/>
+<img src="https://img.shields.io/badge/Fluxos%20de%20usu%C3%A1rio-76548F?style=flat-square" alt="Fluxos de usuário"/>
+<img src="https://img.shields.io/badge/Wireframes-A87896?style=flat-square" alt="Wireframes"/>
+<img src="https://img.shields.io/badge/Prototipa%C3%A7%C3%A3o-76548F?style=flat-square" alt="Prototipação"/>
+<img src="https://img.shields.io/badge/Figma-A87896?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+
+<br><br>
+
+<strong>✦ Linguagens e tecnologias</strong>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML5-76548F?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-A87896?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-76548F?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Python-A87896?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-76548F?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/C-A87896?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/Django-76548F?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-A87896?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/MySQL-76548F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Arduino-A87896?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+<img src="https://img.shields.io/badge/Git-76548F?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
+<br><br>
+
+<strong>✧ Metodologias e práticas</strong>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Scrum-A87896?style=flat-square" alt="Scrum"/>
+<img src="https://img.shields.io/badge/Usabilidade-76548F?style=flat-square" alt="Usabilidade"/>
+<img src="https://img.shields.io/badge/Acessibilidade-A87896?style=flat-square" alt="Acessibilidade"/>
+
+</div>
+
+<br>
+
+---
+
+<!-- ═══════════════ EXPERIÊNCIA ═══════════════ -->
+
+<p align="left">
+  <img src="https://img.shields.io/badge/04%20%2F%20EXPERI%C3%8ANCIA-76548F?style=for-the-badge" alt="Experiência"/>
+</p>
+
+<div align="center">
+
+<h3>♡ Estagiária de UX/UI</h3>
+
+<strong>SENAI/DF · 2026 — atual</strong>
+
+<br><br>
 
 <p>
-  <i>Obrigada por visitar meu perfil! ✨💜</i>
+  Atuação em pesquisa com usuários, entrevistas,
+  testes de usabilidade, análise de dados,
+  prototipação no Figma, melhorias de interface,
+  QA e ajustes front-end.
 </p>
+
+<img src="https://img.shields.io/badge/Pesquisa-76548F?style=flat-square" alt="Pesquisa"/>
+<img src="https://img.shields.io/badge/Prototipa%C3%A7%C3%A3o-A87896?style=flat-square" alt="Prototipação"/>
+<img src="https://img.shields.io/badge/UI%20Design-76548F?style=flat-square" alt="UI Design"/>
+<img src="https://img.shields.io/badge/Front--end-A87896?style=flat-square" alt="Front-end"/>
+
+<br><br>
+
+<i>✧ Aprendendo, criando e evoluindo a cada projeto.</i>
+
+</div>
+
+<br>
+
+---
+
+<!-- ═══════════════ ESTATÍSTICAS ═══════════════ -->
+
+<p align="left">
+  <img src="https://img.shields.io/badge/05%20%2F%20MINHAS%20ESTAT%C3%8DSTICAS-76548F?style=for-the-badge" alt="Minhas estatísticas"/>
+</p>
+
+<div align="center">
+
+<h3>✦ Um pouquinho de magia em cada código ✧</h3>
+
+<br>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Laraewellen&theme=tokyonight&bg_color=00000000&title_color=76548F&icon_color=76548F&border_color=00000000"
+  width="390"
+  alt="Estatísticas do GitHub"
+/> <img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laraewellen&theme=tokyonight&bg_color=00000000&title_color=76548F&icon_color=76548F&border_color=00000000"
+  width="390"
+  alt="Linguagens mais utilizadas"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laraewellen&theme=tokyonight&bg_color=00000000&title_color=76548F&icon_color=76548F&chart_color=76548F&border_color=00000000"
+  width="95%"
+  alt="Histórico de atividade do GitHub"
+/>
+
+</div>
+
+<br>
+
+---
+
+<!-- ═══════════════ CONTRIBUIÇÕES ═══════════════ -->
+
+<p align="left">
+  <img src="https://img.shields.io/badge/06%20%2F%20MINHAS%20CONTRIBUI%C3%87%C3%95ES-76548F?style=for-the-badge" alt="Minhas contribuições"/>
+</p>
+
+<div align="center">
+
+<h3>✧ Pequenos passos, grandes sonhos ♡</h3>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Laraewellen/Laraewellen/output/snake-plum-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Laraewellen/Laraewellen/output/snake-plum.svg"
+  />
+  <img
+    alt="Animação das contribuições do GitHub"
+    src="https://raw.githubusercontent.com/Laraewellen/Laraewellen/output/snake-plum.svg"
+    width="100%"
+  />
+</picture>
+
+<br>
+
+<i>✦ Cada contribuição representa um passo na construção de novas ideias. 💜</i>
+
+</div>
+
+<br>
+
+---
+
+<!-- ═══════════════ CONTATO ═══════════════ -->
+
+<p align="left">
+  <img src="https://img.shields.io/badge/07%20%2F%20VAMOS%20CONVERSAR-76548F?style=for-the-badge" alt="Vamos conversar"/>
+</p>
+
+<div align="center">
+
+<h3>♡ Vamos criar algo especial?</h3>
+
+<p>
+  <i>Tem alguma ideia, projeto ou oportunidade?<br>
+  Vamos conversar e criar algo incrível! ✨</i>
+</p>
+
+
+<a href="mailto:lara.uiux@gmail.com">
+  <img src="https://img.shields.io/badge/Email-A87896?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br><br>
+
+✦ &nbsp; ✧ &nbsp; ♡ &nbsp; ✧ &nbsp; ✦ &nbsp; ✧ &nbsp; ♡
+
+<br>
+
+<i>Obrigada por visitar meu cantinho na internet! 💜</i>
+
+<br>
+
+<sub>Feito com carinho, criatividade e um toque de lavanda. ✨</sub>
 
 </div>
