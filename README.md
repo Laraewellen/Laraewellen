@@ -447,6 +447,51 @@
 
 <br>
 
+<!-- ================================================= -->
+<!--              07 | CONTRIBUIÇÕES                   -->
+<!-- ================================================= -->
+
+<p align="left">
+  <img src="https://img.shields.io/badge/07%20%2F%20MINHAS%20CONTRIBUI%C3%87%C3%95ES-76548F?style=for-the-badge" alt="07 Minhas contribuições" />
+</p>
+
+<div align="center">
+
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Laraewellen/Laraewellen/output/snake-plum-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Laraewellen/Laraewellen/output/snake-plum.svg"
+    />
+    <img
+      alt="Rose and Plum - Animação das contribuições"
+      src="https://raw.githubusercontent.com/Laraewellen/Laraewellen/output/snake-plum.svg"
+      width="100%"
+    />
+  </picture>
+</p>
+
+
+
+
+
+
+<p>
+  <i>✦ Cada contribuição representa um passo na construção de novas ideias. 💜</i>
+</p>
+
+</div>
+
+<br>
+
+---
+
+
 <p>✦ &nbsp; ✧ &nbsp; ✦ &nbsp; ♡ &nbsp; ✦ &nbsp; ✧ &nbsp; ✦</p>
 
 <p>
