@@ -20,9 +20,6 @@
   <i>Rebooting purpose… Please wait ✨🌌</i>
 </p>
 
-<a href="https://portifoliouxui.vercel.app/">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-76548F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
-</a>
 <a href="mailto:lara.uiux@gmail.com">
   <img src="https://img.shields.io/badge/Contato-A87896?style=for-the-badge&logo=gmail&logoColor=white" alt="Contato"/>
 </a>
@@ -402,9 +399,6 @@
   e colaborações em UX/UI Design e tecnologia.
 </p>
 
-<a href="https://portifoliouxui.vercel.app/">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-76548F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
-</a>
 
 <a href="mailto:lara.uiux@gmail.com">
   <img src="https://img.shields.io/badge/Email-A87896?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
