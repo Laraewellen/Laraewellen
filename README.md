@@ -334,15 +334,17 @@
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Laraewellen&theme=tokyonight&bg_color=00000000&title_color=76548F&icon_color=76548F&border_color=00000000"
   width="390"
   alt="Estatísticas do GitHub"
-/> <img
+/>
+<img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Laraewellen&layout=compact&theme=buefy&bg_color=00000000&title_color=76548F&text_color=B6A0D2&hide_border=true&langs_count=6"
+    alt="Linguagens mais utilizadas"
+    width="390"
+  />
+<img
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laraewellen&theme=tokyonight&bg_color=00000000&title_color=76548F&icon_color=76548F&border_color=00000000"
   width="390"
   alt="Linguagens mais utilizadas"
-/>
-
-<br>
-
-<img
+/> <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laraewellen&theme=tokyonight&bg_color=00000000&title_color=76548F&icon_color=76548F&chart_color=76548F&border_color=00000000"
   width="95%"
   alt="Histórico de atividade do GitHub"
